@@ -1,0 +1,462 @@
+[
+  {
+    "symbol": "NIFTY 50",
+    "sector": "Index Benchmark",
+    "beta": 1.0,
+    "crisis_2008_impact": -52.12,
+    "covid_2020_impact": -38.49,
+    "tech_bubble_impact": -39.87,
+    "rate_hike_impact": -14.53,
+    "stagflation_impact": -26.06
+  },
+  {
+    "symbol": "HDFCBANK",
+    "sector": "Banking & Financials",
+    "beta": 0.95,
+    "crisis_2008_impact": -49.62,
+    "covid_2020_impact": -36.64,
+    "tech_bubble_impact": -37.96,
+    "rate_hike_impact": -13.84,
+    "stagflation_impact": -24.81
+  },
+  {
+    "symbol": "ICICIBANK",
+    "sector": "Banking & Financials",
+    "beta": 0.94,
+    "crisis_2008_impact": -48.88,
+    "covid_2020_impact": -36.09,
+    "tech_bubble_impact": -37.39,
+    "rate_hike_impact": -13.63,
+    "stagflation_impact": -24.44
+  },
+  {
+    "symbol": "SBIN",
+    "sector": "Banking & Financials",
+    "beta": 1.23,
+    "crisis_2008_impact": -64.13,
+    "covid_2020_impact": -47.36,
+    "tech_bubble_impact": -49.06,
+    "rate_hike_impact": -17.88,
+    "stagflation_impact": -32.07
+  },
+  {
+    "symbol": "KOTAKBANK",
+    "sector": "Banking & Financials",
+    "beta": 0.91,
+    "crisis_2008_impact": -47.24,
+    "covid_2020_impact": -34.89,
+    "tech_bubble_impact": -36.14,
+    "rate_hike_impact": -13.17,
+    "stagflation_impact": -23.62
+  },
+  {
+    "symbol": "AXISBANK",
+    "sector": "Banking & Financials",
+    "beta": 1.1,
+    "crisis_2008_impact": -57.29,
+    "covid_2020_impact": -42.3,
+    "tech_bubble_impact": -43.82,
+    "rate_hike_impact": -15.97,
+    "stagflation_impact": -28.64
+  },
+  {
+    "symbol": "BAJFINANCE",
+    "sector": "Banking & Financials",
+    "beta": 1.1,
+    "crisis_2008_impact": -56.97,
+    "covid_2020_impact": -42.07,
+    "tech_bubble_impact": -43.58,
+    "rate_hike_impact": -15.89,
+    "stagflation_impact": -28.48
+  },
+  {
+    "symbol": "BAJAJFINSV",
+    "sector": "Banking & Financials",
+    "beta": 1.1,
+    "crisis_2008_impact": -57.0,
+    "covid_2020_impact": -42.1,
+    "tech_bubble_impact": -43.61,
+    "rate_hike_impact": -15.9,
+    "stagflation_impact": -28.5
+  },
+  {
+    "symbol": "INDUSINDBK",
+    "sector": "Banking & Financials",
+    "beta": 1.04,
+    "crisis_2008_impact": -54.19,
+    "covid_2020_impact": -40.02,
+    "tech_bubble_impact": -41.46,
+    "rate_hike_impact": -15.11,
+    "stagflation_impact": -27.1
+  },
+  {
+    "symbol": "TCS",
+    "sector": "IT & Technology",
+    "beta": 0.73,
+    "crisis_2008_impact": -37.94,
+    "covid_2020_impact": -28.02,
+    "tech_bubble_impact": -29.03,
+    "rate_hike_impact": -10.58,
+    "stagflation_impact": -18.97
+  },
+  {
+    "symbol": "INFY",
+    "sector": "IT & Technology",
+    "beta": 0.92,
+    "crisis_2008_impact": -47.62,
+    "covid_2020_impact": -35.16,
+    "tech_bubble_impact": -36.43,
+    "rate_hike_impact": -13.28,
+    "stagflation_impact": -23.81
+  },
+  {
+    "symbol": "HCLTECH",
+    "sector": "IT & Technology",
+    "beta": 0.88,
+    "crisis_2008_impact": -45.66,
+    "covid_2020_impact": -33.72,
+    "tech_bubble_impact": -34.93,
+    "rate_hike_impact": -12.73,
+    "stagflation_impact": -22.83
+  },
+  {
+    "symbol": "WIPRO",
+    "sector": "IT & Technology",
+    "beta": 1.07,
+    "crisis_2008_impact": -55.42,
+    "covid_2020_impact": -40.93,
+    "tech_bubble_impact": -42.4,
+    "rate_hike_impact": -15.45,
+    "stagflation_impact": -27.71
+  },
+  {
+    "symbol": "TECHM",
+    "sector": "IT & Technology",
+    "beta": 0.94,
+    "crisis_2008_impact": -48.63,
+    "covid_2020_impact": -35.91,
+    "tech_bubble_impact": -37.21,
+    "rate_hike_impact": -13.56,
+    "stagflation_impact": -24.32
+  },
+  {
+    "symbol": "MARUTI",
+    "sector": "Automobile",
+    "beta": 0.84,
+    "crisis_2008_impact": -43.44,
+    "covid_2020_impact": -32.08,
+    "tech_bubble_impact": -33.23,
+    "rate_hike_impact": -12.11,
+    "stagflation_impact": -21.72
+  },
+  {
+    "symbol": "M&M",
+    "sector": "Automobile",
+    "beta": 1.3,
+    "crisis_2008_impact": -67.77,
+    "covid_2020_impact": -50.04,
+    "tech_bubble_impact": -51.84,
+    "rate_hike_impact": -18.9,
+    "stagflation_impact": -33.88
+  },
+  {
+    "symbol": "HEROMOTOCO",
+    "sector": "Automobile",
+    "beta": 0.8,
+    "crisis_2008_impact": -41.37,
+    "covid_2020_impact": -30.55,
+    "tech_bubble_impact": -31.65,
+    "rate_hike_impact": -11.54,
+    "stagflation_impact": -20.69
+  },
+  {
+    "symbol": "EICHERMOT",
+    "sector": "Automobile",
+    "beta": 0.93,
+    "crisis_2008_impact": -48.23,
+    "covid_2020_impact": -35.61,
+    "tech_bubble_impact": -36.89,
+    "rate_hike_impact": -13.45,
+    "stagflation_impact": -24.11
+  },
+  {
+    "symbol": "RELIANCE",
+    "sector": "Energy & Utilities",
+    "beta": 1.19,
+    "crisis_2008_impact": -61.64,
+    "covid_2020_impact": -45.52,
+    "tech_bubble_impact": -47.16,
+    "rate_hike_impact": -17.19,
+    "stagflation_impact": -30.82
+  },
+  {
+    "symbol": "NTPC",
+    "sector": "Energy & Utilities",
+    "beta": 1.33,
+    "crisis_2008_impact": -69.2,
+    "covid_2020_impact": -51.1,
+    "tech_bubble_impact": -52.94,
+    "rate_hike_impact": -19.3,
+    "stagflation_impact": -34.6
+  },
+  {
+    "symbol": "ONGC",
+    "sector": "Energy & Utilities",
+    "beta": 1.49,
+    "crisis_2008_impact": -77.29,
+    "covid_2020_impact": -57.07,
+    "tech_bubble_impact": -59.13,
+    "rate_hike_impact": -21.55,
+    "stagflation_impact": -38.64
+  },
+  {
+    "symbol": "POWERGRID",
+    "sector": "Energy & Utilities",
+    "beta": 1.21,
+    "crisis_2008_impact": -62.78,
+    "covid_2020_impact": -46.36,
+    "tech_bubble_impact": -48.02,
+    "rate_hike_impact": -17.5,
+    "stagflation_impact": -31.39
+  },
+  {
+    "symbol": "BPCL",
+    "sector": "Energy & Utilities",
+    "beta": 1.25,
+    "crisis_2008_impact": -64.91,
+    "covid_2020_impact": -47.93,
+    "tech_bubble_impact": -49.65,
+    "rate_hike_impact": -18.1,
+    "stagflation_impact": -32.45
+  },
+  {
+    "symbol": "COALINDIA",
+    "sector": "Energy & Utilities",
+    "beta": 1.25,
+    "crisis_2008_impact": -64.98,
+    "covid_2020_impact": -47.99,
+    "tech_bubble_impact": -49.71,
+    "rate_hike_impact": -18.12,
+    "stagflation_impact": -32.49
+  },
+  {
+    "symbol": "TATASTEEL",
+    "sector": "Metals & Mining",
+    "beta": 1.44,
+    "crisis_2008_impact": -74.95,
+    "covid_2020_impact": -55.35,
+    "tech_bubble_impact": -57.33,
+    "rate_hike_impact": -20.9,
+    "stagflation_impact": -37.47
+  },
+  {
+    "symbol": "JSWSTEEL",
+    "sector": "Metals & Mining",
+    "beta": 1.25,
+    "crisis_2008_impact": -64.94,
+    "covid_2020_impact": -47.95,
+    "tech_bubble_impact": -49.68,
+    "rate_hike_impact": -18.11,
+    "stagflation_impact": -32.47
+  },
+  {
+    "symbol": "HINDALCO",
+    "sector": "Metals & Mining",
+    "beta": 1.18,
+    "crisis_2008_impact": -61.23,
+    "covid_2020_impact": -45.22,
+    "tech_bubble_impact": -46.84,
+    "rate_hike_impact": -17.07,
+    "stagflation_impact": -30.62
+  },
+  {
+    "symbol": "SUNPHARMA",
+    "sector": "Pharma & Healthcare",
+    "beta": 0.57,
+    "crisis_2008_impact": -29.8,
+    "covid_2020_impact": -22.01,
+    "tech_bubble_impact": -22.8,
+    "rate_hike_impact": -8.31,
+    "stagflation_impact": -14.9
+  },
+  {
+    "symbol": "CIPLA",
+    "sector": "Pharma & Healthcare",
+    "beta": 0.53,
+    "crisis_2008_impact": -27.38,
+    "covid_2020_impact": -20.22,
+    "tech_bubble_impact": -20.94,
+    "rate_hike_impact": -7.63,
+    "stagflation_impact": -13.69
+  },
+  {
+    "symbol": "DRREDDY",
+    "sector": "Pharma & Healthcare",
+    "beta": 0.57,
+    "crisis_2008_impact": -29.48,
+    "covid_2020_impact": -21.77,
+    "tech_bubble_impact": -22.55,
+    "rate_hike_impact": -8.22,
+    "stagflation_impact": -14.74
+  },
+  {
+    "symbol": "DIVISLAB",
+    "sector": "Pharma & Healthcare",
+    "beta": 0.65,
+    "crisis_2008_impact": -33.94,
+    "covid_2020_impact": -25.06,
+    "tech_bubble_impact": -25.96,
+    "rate_hike_impact": -9.46,
+    "stagflation_impact": -16.97
+  },
+  {
+    "symbol": "APOLLOHOSP",
+    "sector": "Pharma & Healthcare",
+    "beta": 0.62,
+    "crisis_2008_impact": -32.02,
+    "covid_2020_impact": -23.65,
+    "tech_bubble_impact": -24.49,
+    "rate_hike_impact": -8.93,
+    "stagflation_impact": -16.01
+  },
+  {
+    "symbol": "ITC",
+    "sector": "FMCG & Consumer",
+    "beta": 0.63,
+    "crisis_2008_impact": -32.54,
+    "covid_2020_impact": -24.03,
+    "tech_bubble_impact": -24.9,
+    "rate_hike_impact": -9.07,
+    "stagflation_impact": -16.27
+  },
+  {
+    "symbol": "BHARTIARTL",
+    "sector": "Telecom & Services",
+    "beta": 0.9,
+    "crisis_2008_impact": -46.87,
+    "covid_2020_impact": -34.61,
+    "tech_bubble_impact": -35.86,
+    "rate_hike_impact": -13.07,
+    "stagflation_impact": -23.44
+  },
+  {
+    "symbol": "TITAN",
+    "sector": "FMCG & Consumer",
+    "beta": 0.75,
+    "crisis_2008_impact": -38.96,
+    "covid_2020_impact": -28.77,
+    "tech_bubble_impact": -29.81,
+    "rate_hike_impact": -10.86,
+    "stagflation_impact": -19.48
+  },
+  {
+    "symbol": "ASIANPAINT",
+    "sector": "FMCG & Consumer",
+    "beta": 0.6,
+    "crisis_2008_impact": -31.29,
+    "covid_2020_impact": -23.1,
+    "tech_bubble_impact": -23.93,
+    "rate_hike_impact": -8.72,
+    "stagflation_impact": -15.64
+  },
+  {
+    "symbol": "NESTLEIND",
+    "sector": "FMCG & Consumer",
+    "beta": 0.51,
+    "crisis_2008_impact": -26.59,
+    "covid_2020_impact": -19.64,
+    "tech_bubble_impact": -20.34,
+    "rate_hike_impact": -7.41,
+    "stagflation_impact": -13.3
+  },
+  {
+    "symbol": "BRITANNIA",
+    "sector": "FMCG & Consumer",
+    "beta": 0.4,
+    "crisis_2008_impact": -20.58,
+    "covid_2020_impact": -15.2,
+    "tech_bubble_impact": -15.75,
+    "rate_hike_impact": -5.74,
+    "stagflation_impact": -10.29
+  },
+  {
+    "symbol": "TRENT",
+    "sector": "FMCG & Consumer",
+    "beta": 1.21,
+    "crisis_2008_impact": -63.07,
+    "covid_2020_impact": -46.57,
+    "tech_bubble_impact": -48.25,
+    "rate_hike_impact": -17.59,
+    "stagflation_impact": -31.53
+  },
+  {
+    "symbol": "LT",
+    "sector": "Infra & Capital Goods",
+    "beta": 1.31,
+    "crisis_2008_impact": -68.25,
+    "covid_2020_impact": -50.4,
+    "tech_bubble_impact": -52.21,
+    "rate_hike_impact": -19.03,
+    "stagflation_impact": -34.13
+  },
+  {
+    "symbol": "HAL",
+    "sector": "Defense & Aerospace",
+    "beta": 1.47,
+    "crisis_2008_impact": -76.33,
+    "covid_2020_impact": -56.37,
+    "tech_bubble_impact": -58.39,
+    "rate_hike_impact": -21.28,
+    "stagflation_impact": -38.16
+  },
+  {
+    "symbol": "BEL",
+    "sector": "Defense & Aerospace",
+    "beta": 1.51,
+    "crisis_2008_impact": -78.33,
+    "covid_2020_impact": -57.84,
+    "tech_bubble_impact": -59.92,
+    "rate_hike_impact": -21.84,
+    "stagflation_impact": -39.16
+  },
+  {
+    "symbol": "ADANIENT",
+    "sector": "Infra & Conglomerates",
+    "beta": 1.81,
+    "crisis_2008_impact": -94.09,
+    "covid_2020_impact": -69.48,
+    "tech_bubble_impact": -71.98,
+    "rate_hike_impact": -26.24,
+    "stagflation_impact": -47.05
+  },
+  {
+    "symbol": "ADANIPORTS",
+    "sector": "Infra & Logistics",
+    "beta": 1.77,
+    "crisis_2008_impact": -92.13,
+    "covid_2020_impact": -68.04,
+    "tech_bubble_impact": -70.48,
+    "rate_hike_impact": -25.69,
+    "stagflation_impact": -46.07
+  },
+  {
+    "symbol": "ULTRACEMCO",
+    "sector": "Infra & Materials",
+    "beta": 1.05,
+    "crisis_2008_impact": -54.61,
+    "covid_2020_impact": -40.33,
+    "tech_bubble_impact": -41.78,
+    "rate_hike_impact": -15.23,
+    "stagflation_impact": -27.3
+  },
+  {
+    "symbol": "ZOMATO",
+    "sector": "Consumer Tech",
+    "beta": 1.03,
+    "crisis_2008_impact": -53.43,
+    "covid_2020_impact": -39.46,
+    "tech_bubble_impact": -40.88,
+    "rate_hike_impact": -14.9,
+    "stagflation_impact": -26.72
+  }
+]

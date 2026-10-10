@@ -1,0 +1,31 @@
+scenario,stock,assumed_shock_pct,portfolio_weight_pct,weighted_impact_pct
+Mild Stress,TCS,-5.0,10.0,-0.5
+Mild Stress,Infosys,-5.0,10.0,-0.5
+Mild Stress,HDFC Bank,-4.0,10.0,-0.4
+Mild Stress,ICICI Bank,-4.0,10.0,-0.4
+Mild Stress,Reliance,-5.0,10.0,-0.5
+Mild Stress,NTPC,-3.0,10.0,-0.3
+Mild Stress,L&T,-5.0,10.0,-0.5
+Mild Stress,M&M,-6.0,10.0,-0.6
+Mild Stress,ITC,-3.0,10.0,-0.3
+Mild Stress,Bharti Airtel,-4.0,10.0,-0.4
+Moderate Stress,TCS,-12.0,10.0,-1.2
+Moderate Stress,Infosys,-12.0,10.0,-1.2
+Moderate Stress,HDFC Bank,-10.0,10.0,-1.0
+Moderate Stress,ICICI Bank,-10.0,10.0,-1.0
+Moderate Stress,Reliance,-12.0,10.0,-1.2
+Moderate Stress,NTPC,-8.0,10.0,-0.8
+Moderate Stress,L&T,-12.0,10.0,-1.2
+Moderate Stress,M&M,-15.0,10.0,-1.5
+Moderate Stress,ITC,-7.0,10.0,-0.7
+Moderate Stress,Bharti Airtel,-9.0,10.0,-0.9
+Severe Stress,TCS,-25.0,10.0,-2.5
+Severe Stress,Infosys,-25.0,10.0,-2.5
+Severe Stress,HDFC Bank,-22.0,10.0,-2.2
+Severe Stress,ICICI Bank,-22.0,10.0,-2.2
+Severe Stress,Reliance,-25.0,10.0,-2.5
+Severe Stress,NTPC,-18.0,10.0,-1.8
+Severe Stress,L&T,-25.0,10.0,-2.5
+Severe Stress,M&M,-30.0,10.0,-3.0
+Severe Stress,ITC,-15.0,10.0,-1.5
+Severe Stress,Bharti Airtel,-20.0,10.0,-2.0

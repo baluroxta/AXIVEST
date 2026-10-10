@@ -1,0 +1,6 @@
+# AXIVEST — Python Dependencies
+# Environment: Python 3.10+
+pandas>=2.0.0
+numpy>=1.24.0
+openpyxl>=3.1.0
+yfinance>=0.2.30

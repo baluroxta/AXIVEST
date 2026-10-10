@@ -1,0 +1,169 @@
+/* ==============================================================================
+   AXIVEST — Design System & Global Styles
+   Institutional Dark Mode & Glassmorphism Theme
+   Author: Kandala Guru Balaji
+============================================================================== */
+
+:root {
+  --font-heading: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-body: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+
+  /* Color Palette */
+  --bg-dark: #080C14;
+  --bg-primary: #0D131F;
+  --bg-card: rgba(18, 26, 43, 0.75);
+  --bg-card-hover: rgba(25, 36, 58, 0.9);
+  --bg-card-elevated: #162035;
+  --bg-input: #121A2C;
+  
+  --border-subtle: rgba(255, 255, 255, 0.08);
+  --border-medium: rgba(255, 255, 255, 0.15);
+  --border-focus: #3B82F6;
+
+  /* Typography Colors */
+  --text-primary: #F8FAFC;
+  --text-secondary: #94A3B8;
+  --text-muted: #64748B;
+  --text-light: #E2E8F0;
+
+  /* Financial Accents */
+  --emerald: #10B981;
+  --emerald-glow: rgba(16, 185, 129, 0.2);
+  --emerald-bg: rgba(16, 185, 129, 0.12);
+  
+  --crimson: #EF4444;
+  --crimson-glow: rgba(239, 68, 68, 0.2);
+  --crimson-bg: rgba(239, 68, 68, 0.12);
+  
+  --amber: #F59E0B;
+  --amber-glow: rgba(245, 158, 11, 0.2);
+  --amber-bg: rgba(245, 158, 11, 0.12);
+
+  --blue: #3B82F6;
+  --blue-glow: rgba(59, 130, 246, 0.25);
+  --blue-bg: rgba(59, 130, 246, 0.12);
+
+  --purple: #8B5CF6;
+  --purple-glow: rgba(139, 92, 246, 0.25);
+  --purple-bg: rgba(139, 92, 246, 0.12);
+
+  --cyan: #06B6D4;
+  
+  /* Shadows & Glassmorphism */
+  --glass-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.5), 0 0 1px 1px rgba(255, 255, 255, 0.05);
+  --glass-blur: blur(16px);
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 14px;
+  --radius-xl: 20px;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font-body);
+  background-color: var(--bg-dark);
+  color: var(--text-primary);
+  min-height: 100vh;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: 
+    radial-gradient(circle at 15% 10%, rgba(59, 130, 246, 0.08) 0%, transparent 40%),
+    radial-gradient(circle at 85% 20%, rgba(16, 185, 129, 0.06) 0%, transparent 35%),
+    radial-gradient(circle at 50% 90%, rgba(139, 92, 246, 0.06) 0%, transparent 45%);
+  background-attachment: fixed;
+  overflow-x: hidden;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: var(--bg-dark);
+}
+::-webkit-scrollbar-thumb {
+  background: #1E293B;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #334155;
+}
+
+/* Utility Animations */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes pulseGlow {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.6; }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.3s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+/* Glass Card */
+.glass-panel {
+  background: var(--bg-card);
+  backdrop-filter: var(--glass-blur);
+  -webkit-backdrop-filter: var(--glass-blur);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--glass-shadow);
+  transition: border-color 0.2s ease, transform 0.2s ease;
+}
+
+.glass-panel:hover {
+  border-color: rgba(255, 255, 255, 0.12);
+}
+
+/* Typography Helpers */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+  letter-spacing: -0.02em;
+  font-weight: 700;
+}
+
+.mono-num {
+  font-family: var(--font-mono);
+  font-variant-numeric: tabular-nums;
+}
+
+/* Badges */
+.badge-buy {
+  background: var(--emerald-bg);
+  color: var(--emerald);
+  border: 1px solid rgba(16, 185, 129, 0.3);
+  box-shadow: 0 0 12px var(--emerald-glow);
+}
+
+.badge-hold {
+  background: var(--amber-bg);
+  color: var(--amber);
+  border: 1px solid rgba(245, 158, 11, 0.3);
+  box-shadow: 0 0 12px var(--amber-glow);
+}
+
+.badge-caution {
+  background: var(--crimson-bg);
+  color: var(--crimson);
+  border: 1px solid rgba(239, 68, 68, 0.3);
+  box-shadow: 0 0 12px var(--crimson-glow);
+}
+
+.badge-benchmark {
+  background: var(--blue-bg);
+  color: var(--blue);
+  border: 1px solid rgba(59, 130, 246, 0.3);
+  box-shadow: 0 0 12px var(--blue-glow);
+}

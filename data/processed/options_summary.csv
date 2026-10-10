@@ -1,0 +1,4 @@
+strategy,description,net_premium_paid_per_unit,best_profit_in_tested_range,worst_profit_in_tested_range,tested_price_min,tested_price_max,breakeven_lower,breakeven_upper
+Bull Call Spread,Limited-risk bullish strategy (Long 1000C / Short 1100C),35.0,65.0,-35.0,700.0,1300.0,1035.0,1035.0
+Long Straddle,Volatility breakout strategy (Long 1000C / Long 1000P),105.0,195.0,-105.0,700.0,1300.0,895.0,1105.0
+Iron Condor,Range-bound credit strategy (850P/900P credit spread + 1100C/1150C credit spread),-23.0,23.0,-27.0,700.0,1300.0,877.0,1123.0

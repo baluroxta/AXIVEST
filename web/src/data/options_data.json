@@ -1,0 +1,3544 @@
+[
+  {
+    "symbol": "NIFTY 50",
+    "spot_price": 25285.35,
+    "atm_strike": 25300,
+    "chain": [
+      {
+        "strike": 25000,
+        "call_ltp": 557.2,
+        "put_ltp": 271.9,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.8,
+        "put_delta": -0.2,
+        "iv": 13.4
+      },
+      {
+        "strike": 25100,
+        "call_ltp": 457.2,
+        "put_ltp": 271.9,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.7,
+        "put_delta": -0.3,
+        "iv": 13.4
+      },
+      {
+        "strike": 25200,
+        "call_ltp": 357.2,
+        "put_ltp": 271.9,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.6,
+        "put_delta": -0.4,
+        "iv": 13.4
+      },
+      {
+        "strike": 25300,
+        "call_ltp": 271.9,
+        "put_ltp": 286.6,
+        "call_moneyness": "ATM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.5,
+        "put_delta": -0.5,
+        "iv": 13.4
+      },
+      {
+        "strike": 25400,
+        "call_ltp": 271.9,
+        "put_ltp": 386.6,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.4,
+        "put_delta": -0.6,
+        "iv": 13.4
+      },
+      {
+        "strike": 25500,
+        "call_ltp": 271.9,
+        "put_ltp": 486.6,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.3,
+        "put_delta": -0.7,
+        "iv": 13.4
+      },
+      {
+        "strike": 25600,
+        "call_ltp": 271.9,
+        "put_ltp": 586.6,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.2,
+        "put_delta": -0.8,
+        "iv": 13.4
+      }
+    ]
+  },
+  {
+    "symbol": "HDFCBANK",
+    "spot_price": 980.9,
+    "atm_strike": 980,
+    "chain": [
+      {
+        "strike": 920,
+        "call_ltp": 76.6,
+        "put_ltp": 15.7,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.8,
+        "put_delta": -0.2,
+        "iv": 20.0
+      },
+      {
+        "strike": 940,
+        "call_ltp": 56.6,
+        "put_ltp": 15.7,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.7,
+        "put_delta": -0.3,
+        "iv": 20.0
+      },
+      {
+        "strike": 960,
+        "call_ltp": 36.6,
+        "put_ltp": 15.7,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.6,
+        "put_delta": -0.4,
+        "iv": 20.0
+      },
+      {
+        "strike": 980,
+        "call_ltp": 16.6,
+        "put_ltp": 15.7,
+        "call_moneyness": "ITM",
+        "put_moneyness": "ATM",
+        "call_delta": 0.5,
+        "put_delta": -0.5,
+        "iv": 20.0
+      },
+      {
+        "strike": 1000,
+        "call_ltp": 15.7,
+        "put_ltp": 34.8,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.4,
+        "put_delta": -0.6,
+        "iv": 20.0
+      },
+      {
+        "strike": 1020,
+        "call_ltp": 15.7,
+        "put_ltp": 54.8,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.3,
+        "put_delta": -0.7,
+        "iv": 20.0
+      },
+      {
+        "strike": 1040,
+        "call_ltp": 15.7,
+        "put_ltp": 74.8,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.2,
+        "put_delta": -0.8,
+        "iv": 20.0
+      }
+    ]
+  },
+  {
+    "symbol": "ICICIBANK",
+    "spot_price": 1380.3,
+    "atm_strike": 1400,
+    "chain": [
+      {
+        "strike": 1250,
+        "call_ltp": 151.2,
+        "put_ltp": 20.9,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.8,
+        "put_delta": -0.2,
+        "iv": 18.9
+      },
+      {
+        "strike": 1300,
+        "call_ltp": 101.2,
+        "put_ltp": 20.9,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.7,
+        "put_delta": -0.3,
+        "iv": 18.9
+      },
+      {
+        "strike": 1350,
+        "call_ltp": 51.2,
+        "put_ltp": 20.9,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.6,
+        "put_delta": -0.4,
+        "iv": 18.9
+      },
+      {
+        "strike": 1400,
+        "call_ltp": 20.9,
+        "put_ltp": 40.6,
+        "call_moneyness": "ATM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.5,
+        "put_delta": -0.5,
+        "iv": 18.9
+      },
+      {
+        "strike": 1450,
+        "call_ltp": 20.9,
+        "put_ltp": 90.6,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.4,
+        "put_delta": -0.6,
+        "iv": 18.9
+      },
+      {
+        "strike": 1500,
+        "call_ltp": 20.9,
+        "put_ltp": 140.6,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.3,
+        "put_delta": -0.7,
+        "iv": 18.9
+      },
+      {
+        "strike": 1550,
+        "call_ltp": 20.9,
+        "put_ltp": 190.6,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.2,
+        "put_delta": -0.8,
+        "iv": 18.9
+      }
+    ]
+  },
+  {
+    "symbol": "SBIN",
+    "spot_price": 880.65,
+    "atm_strike": 880,
+    "chain": [
+      {
+        "strike": 820,
+        "call_ltp": 78.4,
+        "put_ltp": 17.8,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.8,
+        "put_delta": -0.2,
+        "iv": 25.3
+      },
+      {
+        "strike": 840,
+        "call_ltp": 58.4,
+        "put_ltp": 17.8,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.7,
+        "put_delta": -0.3,
+        "iv": 25.3
+      },
+      {
+        "strike": 860,
+        "call_ltp": 38.4,
+        "put_ltp": 17.8,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.6,
+        "put_delta": -0.4,
+        "iv": 25.3
+      },
+      {
+        "strike": 880,
+        "call_ltp": 18.4,
+        "put_ltp": 17.8,
+        "call_moneyness": "ITM",
+        "put_moneyness": "ATM",
+        "call_delta": 0.5,
+        "put_delta": -0.5,
+        "iv": 25.3
+      },
+      {
+        "strike": 900,
+        "call_ltp": 17.8,
+        "put_ltp": 37.2,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.4,
+        "put_delta": -0.6,
+        "iv": 25.3
+      },
+      {
+        "strike": 920,
+        "call_ltp": 17.8,
+        "put_ltp": 57.2,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.3,
+        "put_delta": -0.7,
+        "iv": 25.3
+      },
+      {
+        "strike": 940,
+        "call_ltp": 17.8,
+        "put_ltp": 77.2,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.2,
+        "put_delta": -0.8,
+        "iv": 25.3
+      }
+    ]
+  },
+  {
+    "symbol": "KOTAKBANK",
+    "spot_price": 430.0,
+    "atm_strike": 440,
+    "chain": [
+      {
+        "strike": 380,
+        "call_ltp": 58.3,
+        "put_ltp": 8.3,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.8,
+        "put_delta": -0.2,
+        "iv": 24.0
+      },
+      {
+        "strike": 400,
+        "call_ltp": 38.3,
+        "put_ltp": 8.3,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.7,
+        "put_delta": -0.3,
+        "iv": 24.0
+      },
+      {
+        "strike": 420,
+        "call_ltp": 18.3,
+        "put_ltp": 8.3,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.6,
+        "put_delta": -0.4,
+        "iv": 24.0
+      },
+      {
+        "strike": 440,
+        "call_ltp": 8.3,
+        "put_ltp": 18.3,
+        "call_moneyness": "ATM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.5,
+        "put_delta": -0.5,
+        "iv": 24.0
+      },
+      {
+        "strike": 460,
+        "call_ltp": 8.3,
+        "put_ltp": 38.3,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.4,
+        "put_delta": -0.6,
+        "iv": 24.0
+      },
+      {
+        "strike": 480,
+        "call_ltp": 8.3,
+        "put_ltp": 58.3,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.3,
+        "put_delta": -0.7,
+        "iv": 24.0
+      },
+      {
+        "strike": 500,
+        "call_ltp": 8.3,
+        "put_ltp": 78.3,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.2,
+        "put_delta": -0.8,
+        "iv": 24.0
+      }
+    ]
+  },
+  {
+    "symbol": "AXISBANK",
+    "spot_price": 1180.4,
+    "atm_strike": 1200,
+    "chain": [
+      {
+        "strike": 1050,
+        "call_ltp": 152.7,
+        "put_ltp": 22.3,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.8,
+        "put_delta": -0.2,
+        "iv": 23.6
+      },
+      {
+        "strike": 1100,
+        "call_ltp": 102.7,
+        "put_ltp": 22.3,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.7,
+        "put_delta": -0.3,
+        "iv": 23.6
+      },
+      {
+        "strike": 1150,
+        "call_ltp": 52.7,
+        "put_ltp": 22.3,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.6,
+        "put_delta": -0.4,
+        "iv": 23.6
+      },
+      {
+        "strike": 1200,
+        "call_ltp": 22.3,
+        "put_ltp": 41.9,
+        "call_moneyness": "ATM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.5,
+        "put_delta": -0.5,
+        "iv": 23.6
+      },
+      {
+        "strike": 1250,
+        "call_ltp": 22.3,
+        "put_ltp": 91.9,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.4,
+        "put_delta": -0.6,
+        "iv": 23.6
+      },
+      {
+        "strike": 1300,
+        "call_ltp": 22.3,
+        "put_ltp": 141.9,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.3,
+        "put_delta": -0.7,
+        "iv": 23.6
+      },
+      {
+        "strike": 1350,
+        "call_ltp": 22.3,
+        "put_ltp": 191.9,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.2,
+        "put_delta": -0.8,
+        "iv": 23.6
+      }
+    ]
+  },
+  {
+    "symbol": "BAJFINANCE",
+    "spot_price": 1023.85,
+    "atm_strike": 1000,
+    "chain": [
+      {
+        "strike": 850,
+        "call_ltp": 195.4,
+        "put_ltp": 21.5,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.8,
+        "put_delta": -0.2,
+        "iv": 26.2
+      },
+      {
+        "strike": 900,
+        "call_ltp": 145.4,
+        "put_ltp": 21.5,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.7,
+        "put_delta": -0.3,
+        "iv": 26.2
+      },
+      {
+        "strike": 950,
+        "call_ltp": 95.4,
+        "put_ltp": 21.5,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.6,
+        "put_delta": -0.4,
+        "iv": 26.2
+      },
+      {
+        "strike": 1000,
+        "call_ltp": 45.4,
+        "put_ltp": 21.5,
+        "call_moneyness": "ITM",
+        "put_moneyness": "ATM",
+        "call_delta": 0.5,
+        "put_delta": -0.5,
+        "iv": 26.2
+      },
+      {
+        "strike": 1050,
+        "call_ltp": 21.5,
+        "put_ltp": 47.6,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.4,
+        "put_delta": -0.6,
+        "iv": 26.2
+      },
+      {
+        "strike": 1100,
+        "call_ltp": 21.5,
+        "put_ltp": 97.6,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.3,
+        "put_delta": -0.7,
+        "iv": 26.2
+      },
+      {
+        "strike": 1150,
+        "call_ltp": 21.5,
+        "put_ltp": 147.6,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.2,
+        "put_delta": -0.8,
+        "iv": 26.2
+      }
+    ]
+  },
+  {
+    "symbol": "BAJAJFINSV",
+    "spot_price": 2004.3,
+    "atm_strike": 2000,
+    "chain": [
+      {
+        "strike": 1850,
+        "call_ltp": 192.2,
+        "put_ltp": 37.9,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.8,
+        "put_delta": -0.2,
+        "iv": 23.7
+      },
+      {
+        "strike": 1900,
+        "call_ltp": 142.2,
+        "put_ltp": 37.9,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.7,
+        "put_delta": -0.3,
+        "iv": 23.7
+      },
+      {
+        "strike": 1950,
+        "call_ltp": 92.2,
+        "put_ltp": 37.9,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.6,
+        "put_delta": -0.4,
+        "iv": 23.7
+      },
+      {
+        "strike": 2000,
+        "call_ltp": 42.2,
+        "put_ltp": 37.9,
+        "call_moneyness": "ITM",
+        "put_moneyness": "ATM",
+        "call_delta": 0.5,
+        "put_delta": -0.5,
+        "iv": 23.7
+      },
+      {
+        "strike": 2050,
+        "call_ltp": 37.9,
+        "put_ltp": 83.6,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.4,
+        "put_delta": -0.6,
+        "iv": 23.7
+      },
+      {
+        "strike": 2100,
+        "call_ltp": 37.9,
+        "put_ltp": 133.6,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.3,
+        "put_delta": -0.7,
+        "iv": 23.7
+      },
+      {
+        "strike": 2150,
+        "call_ltp": 37.9,
+        "put_ltp": 183.6,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.2,
+        "put_delta": -0.8,
+        "iv": 23.7
+      }
+    ]
+  },
+  {
+    "symbol": "INDUSINDBK",
+    "spot_price": 763.35,
+    "atm_strike": 760,
+    "chain": [
+      {
+        "strike": 700,
+        "call_ltp": 86.2,
+        "put_ltp": 22.8,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.8,
+        "put_delta": -0.2,
+        "iv": 37.3
+      },
+      {
+        "strike": 720,
+        "call_ltp": 66.2,
+        "put_ltp": 22.8,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.7,
+        "put_delta": -0.3,
+        "iv": 37.3
+      },
+      {
+        "strike": 740,
+        "call_ltp": 46.2,
+        "put_ltp": 22.8,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.6,
+        "put_delta": -0.4,
+        "iv": 37.3
+      },
+      {
+        "strike": 760,
+        "call_ltp": 26.2,
+        "put_ltp": 22.8,
+        "call_moneyness": "ITM",
+        "put_moneyness": "ATM",
+        "call_delta": 0.5,
+        "put_delta": -0.5,
+        "iv": 37.3
+      },
+      {
+        "strike": 780,
+        "call_ltp": 22.8,
+        "put_ltp": 39.4,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.4,
+        "put_delta": -0.6,
+        "iv": 37.3
+      },
+      {
+        "strike": 800,
+        "call_ltp": 22.8,
+        "put_ltp": 59.4,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.3,
+        "put_delta": -0.7,
+        "iv": 37.3
+      },
+      {
+        "strike": 820,
+        "call_ltp": 22.8,
+        "put_ltp": 79.4,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.2,
+        "put_delta": -0.8,
+        "iv": 37.3
+      }
+    ]
+  },
+  {
+    "symbol": "TCS",
+    "spot_price": 3028.3,
+    "atm_strike": 3050,
+    "chain": [
+      {
+        "strike": 2900,
+        "call_ltp": 179.3,
+        "put_ltp": 51.0,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.8,
+        "put_delta": -0.2,
+        "iv": 21.1
+      },
+      {
+        "strike": 2950,
+        "call_ltp": 129.3,
+        "put_ltp": 51.0,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.7,
+        "put_delta": -0.3,
+        "iv": 21.1
+      },
+      {
+        "strike": 3000,
+        "call_ltp": 79.3,
+        "put_ltp": 51.0,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.6,
+        "put_delta": -0.4,
+        "iv": 21.1
+      },
+      {
+        "strike": 3050,
+        "call_ltp": 51.0,
+        "put_ltp": 72.7,
+        "call_moneyness": "ATM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.5,
+        "put_delta": -0.5,
+        "iv": 21.1
+      },
+      {
+        "strike": 3100,
+        "call_ltp": 51.0,
+        "put_ltp": 122.7,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.4,
+        "put_delta": -0.6,
+        "iv": 21.1
+      },
+      {
+        "strike": 3150,
+        "call_ltp": 51.0,
+        "put_ltp": 172.7,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.3,
+        "put_delta": -0.7,
+        "iv": 21.1
+      },
+      {
+        "strike": 3200,
+        "call_ltp": 51.0,
+        "put_ltp": 222.7,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.2,
+        "put_delta": -0.8,
+        "iv": 21.1
+      }
+    ]
+  },
+  {
+    "symbol": "INFY",
+    "spot_price": 1514.9,
+    "atm_strike": 1500,
+    "chain": [
+      {
+        "strike": 1350,
+        "call_ltp": 194.5,
+        "put_ltp": 29.6,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.8,
+        "put_delta": -0.2,
+        "iv": 24.4
+      },
+      {
+        "strike": 1400,
+        "call_ltp": 144.5,
+        "put_ltp": 29.6,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.7,
+        "put_delta": -0.3,
+        "iv": 24.4
+      },
+      {
+        "strike": 1450,
+        "call_ltp": 94.5,
+        "put_ltp": 29.6,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.6,
+        "put_delta": -0.4,
+        "iv": 24.4
+      },
+      {
+        "strike": 1500,
+        "call_ltp": 44.5,
+        "put_ltp": 29.6,
+        "call_moneyness": "ITM",
+        "put_moneyness": "ATM",
+        "call_delta": 0.5,
+        "put_delta": -0.5,
+        "iv": 24.4
+      },
+      {
+        "strike": 1550,
+        "call_ltp": 29.6,
+        "put_ltp": 64.7,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.4,
+        "put_delta": -0.6,
+        "iv": 24.4
+      },
+      {
+        "strike": 1600,
+        "call_ltp": 29.6,
+        "put_ltp": 114.7,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.3,
+        "put_delta": -0.7,
+        "iv": 24.4
+      },
+      {
+        "strike": 1650,
+        "call_ltp": 29.6,
+        "put_ltp": 164.7,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.2,
+        "put_delta": -0.8,
+        "iv": 24.4
+      }
+    ]
+  },
+  {
+    "symbol": "HCLTECH",
+    "spot_price": 1495.5,
+    "atm_strike": 1500,
+    "chain": [
+      {
+        "strike": 1350,
+        "call_ltp": 174.9,
+        "put_ltp": 29.4,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.8,
+        "put_delta": -0.2,
+        "iv": 24.5
+      },
+      {
+        "strike": 1400,
+        "call_ltp": 124.9,
+        "put_ltp": 29.4,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.7,
+        "put_delta": -0.3,
+        "iv": 24.5
+      },
+      {
+        "strike": 1450,
+        "call_ltp": 74.9,
+        "put_ltp": 29.4,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.6,
+        "put_delta": -0.4,
+        "iv": 24.5
+      },
+      {
+        "strike": 1500,
+        "call_ltp": 29.4,
+        "put_ltp": 33.9,
+        "call_moneyness": "ATM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.5,
+        "put_delta": -0.5,
+        "iv": 24.5
+      },
+      {
+        "strike": 1550,
+        "call_ltp": 29.4,
+        "put_ltp": 83.9,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.4,
+        "put_delta": -0.6,
+        "iv": 24.5
+      },
+      {
+        "strike": 1600,
+        "call_ltp": 29.4,
+        "put_ltp": 133.9,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.3,
+        "put_delta": -0.7,
+        "iv": 24.5
+      },
+      {
+        "strike": 1650,
+        "call_ltp": 29.4,
+        "put_ltp": 183.9,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.2,
+        "put_delta": -0.8,
+        "iv": 24.5
+      }
+    ]
+  },
+  {
+    "symbol": "WIPRO",
+    "spot_price": 248.7,
+    "atm_strike": 240,
+    "chain": [
+      {
+        "strike": 180,
+        "call_ltp": 74.2,
+        "put_ltp": 5.5,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.8,
+        "put_delta": -0.2,
+        "iv": 27.4
+      },
+      {
+        "strike": 200,
+        "call_ltp": 54.2,
+        "put_ltp": 5.5,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.7,
+        "put_delta": -0.3,
+        "iv": 27.4
+      },
+      {
+        "strike": 220,
+        "call_ltp": 34.2,
+        "put_ltp": 5.5,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.6,
+        "put_delta": -0.4,
+        "iv": 27.4
+      },
+      {
+        "strike": 240,
+        "call_ltp": 14.2,
+        "put_ltp": 5.5,
+        "call_moneyness": "ITM",
+        "put_moneyness": "ATM",
+        "call_delta": 0.5,
+        "put_delta": -0.5,
+        "iv": 27.4
+      },
+      {
+        "strike": 260,
+        "call_ltp": 5.5,
+        "put_ltp": 16.8,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.4,
+        "put_delta": -0.6,
+        "iv": 27.4
+      },
+      {
+        "strike": 280,
+        "call_ltp": 5.5,
+        "put_ltp": 36.8,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.3,
+        "put_delta": -0.7,
+        "iv": 27.4
+      },
+      {
+        "strike": 300,
+        "call_ltp": 5.5,
+        "put_ltp": 56.8,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.2,
+        "put_delta": -0.8,
+        "iv": 27.4
+      }
+    ]
+  },
+  {
+    "symbol": "TECHM",
+    "spot_price": 1457.2,
+    "atm_strike": 1450,
+    "chain": [
+      {
+        "strike": 1300,
+        "call_ltp": 187.5,
+        "put_ltp": 30.3,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.8,
+        "put_delta": -0.2,
+        "iv": 26.0
+      },
+      {
+        "strike": 1350,
+        "call_ltp": 137.5,
+        "put_ltp": 30.3,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.7,
+        "put_delta": -0.3,
+        "iv": 26.0
+      },
+      {
+        "strike": 1400,
+        "call_ltp": 87.5,
+        "put_ltp": 30.3,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.6,
+        "put_delta": -0.4,
+        "iv": 26.0
+      },
+      {
+        "strike": 1450,
+        "call_ltp": 37.5,
+        "put_ltp": 30.3,
+        "call_moneyness": "ITM",
+        "put_moneyness": "ATM",
+        "call_delta": 0.5,
+        "put_delta": -0.5,
+        "iv": 26.0
+      },
+      {
+        "strike": 1500,
+        "call_ltp": 30.3,
+        "put_ltp": 73.1,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.4,
+        "put_delta": -0.6,
+        "iv": 26.0
+      },
+      {
+        "strike": 1550,
+        "call_ltp": 30.3,
+        "put_ltp": 123.1,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.3,
+        "put_delta": -0.7,
+        "iv": 26.0
+      },
+      {
+        "strike": 1600,
+        "call_ltp": 30.3,
+        "put_ltp": 173.1,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.2,
+        "put_delta": -0.8,
+        "iv": 26.0
+      }
+    ]
+  },
+  {
+    "symbol": "MARUTI",
+    "spot_price": 16265.0,
+    "atm_strike": 16300,
+    "chain": [
+      {
+        "strike": 16000,
+        "call_ltp": 558.0,
+        "put_ltp": 293.0,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.8,
+        "put_delta": -0.2,
+        "iv": 22.5
+      },
+      {
+        "strike": 16100,
+        "call_ltp": 458.0,
+        "put_ltp": 293.0,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.7,
+        "put_delta": -0.3,
+        "iv": 22.5
+      },
+      {
+        "strike": 16200,
+        "call_ltp": 358.0,
+        "put_ltp": 293.0,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.6,
+        "put_delta": -0.4,
+        "iv": 22.5
+      },
+      {
+        "strike": 16300,
+        "call_ltp": 293.0,
+        "put_ltp": 328.0,
+        "call_moneyness": "ATM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.5,
+        "put_delta": -0.5,
+        "iv": 22.5
+      },
+      {
+        "strike": 16400,
+        "call_ltp": 293.0,
+        "put_ltp": 428.0,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.4,
+        "put_delta": -0.6,
+        "iv": 22.5
+      },
+      {
+        "strike": 16500,
+        "call_ltp": 293.0,
+        "put_ltp": 528.0,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.3,
+        "put_delta": -0.7,
+        "iv": 22.5
+      },
+      {
+        "strike": 16600,
+        "call_ltp": 293.0,
+        "put_ltp": 628.0,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.2,
+        "put_delta": -0.8,
+        "iv": 22.5
+      }
+    ]
+  },
+  {
+    "symbol": "M&M",
+    "spot_price": 3454.9,
+    "atm_strike": 3450,
+    "chain": [
+      {
+        "strike": 3300,
+        "call_ltp": 238.7,
+        "put_ltp": 83.8,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.8,
+        "put_delta": -0.2,
+        "iv": 30.3
+      },
+      {
+        "strike": 3350,
+        "call_ltp": 188.7,
+        "put_ltp": 83.8,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.7,
+        "put_delta": -0.3,
+        "iv": 30.3
+      },
+      {
+        "strike": 3400,
+        "call_ltp": 138.7,
+        "put_ltp": 83.8,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.6,
+        "put_delta": -0.4,
+        "iv": 30.3
+      },
+      {
+        "strike": 3450,
+        "call_ltp": 88.7,
+        "put_ltp": 83.8,
+        "call_moneyness": "ITM",
+        "put_moneyness": "ATM",
+        "call_delta": 0.5,
+        "put_delta": -0.5,
+        "iv": 30.3
+      },
+      {
+        "strike": 3500,
+        "call_ltp": 83.8,
+        "put_ltp": 128.9,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.4,
+        "put_delta": -0.6,
+        "iv": 30.3
+      },
+      {
+        "strike": 3550,
+        "call_ltp": 83.8,
+        "put_ltp": 178.9,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.3,
+        "put_delta": -0.7,
+        "iv": 30.3
+      },
+      {
+        "strike": 3600,
+        "call_ltp": 83.8,
+        "put_ltp": 228.9,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.2,
+        "put_delta": -0.8,
+        "iv": 30.3
+      }
+    ]
+  },
+  {
+    "symbol": "HEROMOTOCO",
+    "spot_price": 5500.0,
+    "atm_strike": 5500,
+    "chain": [
+      {
+        "strike": 5200,
+        "call_ltp": 414.3,
+        "put_ltp": 114.3,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.8,
+        "put_delta": -0.2,
+        "iv": 26.0
+      },
+      {
+        "strike": 5300,
+        "call_ltp": 314.3,
+        "put_ltp": 114.3,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.7,
+        "put_delta": -0.3,
+        "iv": 26.0
+      },
+      {
+        "strike": 5400,
+        "call_ltp": 214.3,
+        "put_ltp": 114.3,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.6,
+        "put_delta": -0.4,
+        "iv": 26.0
+      },
+      {
+        "strike": 5500,
+        "call_ltp": 114.3,
+        "put_ltp": 114.3,
+        "call_moneyness": "ATM",
+        "put_moneyness": "ATM",
+        "call_delta": 0.5,
+        "put_delta": -0.5,
+        "iv": 26.0
+      },
+      {
+        "strike": 5600,
+        "call_ltp": 114.3,
+        "put_ltp": 214.3,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.4,
+        "put_delta": -0.6,
+        "iv": 26.0
+      },
+      {
+        "strike": 5700,
+        "call_ltp": 114.3,
+        "put_ltp": 314.3,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.3,
+        "put_delta": -0.7,
+        "iv": 26.0
+      },
+      {
+        "strike": 5800,
+        "call_ltp": 114.3,
+        "put_ltp": 414.3,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.2,
+        "put_delta": -0.8,
+        "iv": 26.0
+      }
+    ]
+  },
+  {
+    "symbol": "EICHERMOT",
+    "spot_price": 6965.0,
+    "atm_strike": 7000,
+    "chain": [
+      {
+        "strike": 6700,
+        "call_ltp": 400.3,
+        "put_ltp": 135.3,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.8,
+        "put_delta": -0.2,
+        "iv": 24.3
+      },
+      {
+        "strike": 6800,
+        "call_ltp": 300.3,
+        "put_ltp": 135.3,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.7,
+        "put_delta": -0.3,
+        "iv": 24.3
+      },
+      {
+        "strike": 6900,
+        "call_ltp": 200.3,
+        "put_ltp": 135.3,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.6,
+        "put_delta": -0.4,
+        "iv": 24.3
+      },
+      {
+        "strike": 7000,
+        "call_ltp": 135.3,
+        "put_ltp": 170.3,
+        "call_moneyness": "ATM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.5,
+        "put_delta": -0.5,
+        "iv": 24.3
+      },
+      {
+        "strike": 7100,
+        "call_ltp": 135.3,
+        "put_ltp": 270.3,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.4,
+        "put_delta": -0.6,
+        "iv": 24.3
+      },
+      {
+        "strike": 7200,
+        "call_ltp": 135.3,
+        "put_ltp": 370.3,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.3,
+        "put_delta": -0.7,
+        "iv": 24.3
+      },
+      {
+        "strike": 7300,
+        "call_ltp": 135.3,
+        "put_ltp": 470.3,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.2,
+        "put_delta": -0.8,
+        "iv": 24.3
+      }
+    ]
+  },
+  {
+    "symbol": "RELIANCE",
+    "spot_price": 1381.7,
+    "atm_strike": 1400,
+    "chain": [
+      {
+        "strike": 1250,
+        "call_ltp": 155.8,
+        "put_ltp": 24.1,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.8,
+        "put_delta": -0.2,
+        "iv": 21.8
+      },
+      {
+        "strike": 1300,
+        "call_ltp": 105.8,
+        "put_ltp": 24.1,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.7,
+        "put_delta": -0.3,
+        "iv": 21.8
+      },
+      {
+        "strike": 1350,
+        "call_ltp": 55.8,
+        "put_ltp": 24.1,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.6,
+        "put_delta": -0.4,
+        "iv": 21.8
+      },
+      {
+        "strike": 1400,
+        "call_ltp": 24.1,
+        "put_ltp": 42.4,
+        "call_moneyness": "ATM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.5,
+        "put_delta": -0.5,
+        "iv": 21.8
+      },
+      {
+        "strike": 1450,
+        "call_ltp": 24.1,
+        "put_ltp": 92.4,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.4,
+        "put_delta": -0.6,
+        "iv": 21.8
+      },
+      {
+        "strike": 1500,
+        "call_ltp": 24.1,
+        "put_ltp": 142.4,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.3,
+        "put_delta": -0.7,
+        "iv": 21.8
+      },
+      {
+        "strike": 1550,
+        "call_ltp": 24.1,
+        "put_ltp": 192.4,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.2,
+        "put_delta": -0.8,
+        "iv": 21.8
+      }
+    ]
+  },
+  {
+    "symbol": "NTPC",
+    "spot_price": 339.7,
+    "atm_strike": 340,
+    "chain": [
+      {
+        "strike": 280,
+        "call_ltp": 67.3,
+        "put_ltp": 7.6,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.8,
+        "put_delta": -0.2,
+        "iv": 27.9
+      },
+      {
+        "strike": 300,
+        "call_ltp": 47.3,
+        "put_ltp": 7.6,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.7,
+        "put_delta": -0.3,
+        "iv": 27.9
+      },
+      {
+        "strike": 320,
+        "call_ltp": 27.3,
+        "put_ltp": 7.6,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.6,
+        "put_delta": -0.4,
+        "iv": 27.9
+      },
+      {
+        "strike": 340,
+        "call_ltp": 7.6,
+        "put_ltp": 7.9,
+        "call_moneyness": "ATM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.5,
+        "put_delta": -0.5,
+        "iv": 27.9
+      },
+      {
+        "strike": 360,
+        "call_ltp": 7.6,
+        "put_ltp": 27.9,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.4,
+        "put_delta": -0.6,
+        "iv": 27.9
+      },
+      {
+        "strike": 380,
+        "call_ltp": 7.6,
+        "put_ltp": 47.9,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.3,
+        "put_delta": -0.7,
+        "iv": 27.9
+      },
+      {
+        "strike": 400,
+        "call_ltp": 7.6,
+        "put_ltp": 67.9,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.2,
+        "put_delta": -0.8,
+        "iv": 27.9
+      }
+    ]
+  },
+  {
+    "symbol": "ONGC",
+    "spot_price": 246.34,
+    "atm_strike": 240,
+    "chain": [
+      {
+        "strike": 180,
+        "call_ltp": 72.7,
+        "put_ltp": 6.4,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.8,
+        "put_delta": -0.2,
+        "iv": 32.4
+      },
+      {
+        "strike": 200,
+        "call_ltp": 52.7,
+        "put_ltp": 6.4,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.7,
+        "put_delta": -0.3,
+        "iv": 32.4
+      },
+      {
+        "strike": 220,
+        "call_ltp": 32.7,
+        "put_ltp": 6.4,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.6,
+        "put_delta": -0.4,
+        "iv": 32.4
+      },
+      {
+        "strike": 240,
+        "call_ltp": 12.7,
+        "put_ltp": 6.4,
+        "call_moneyness": "ITM",
+        "put_moneyness": "ATM",
+        "call_delta": 0.5,
+        "put_delta": -0.5,
+        "iv": 32.4
+      },
+      {
+        "strike": 260,
+        "call_ltp": 6.4,
+        "put_ltp": 20.1,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.4,
+        "put_delta": -0.6,
+        "iv": 32.4
+      },
+      {
+        "strike": 280,
+        "call_ltp": 6.4,
+        "put_ltp": 40.1,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.3,
+        "put_delta": -0.7,
+        "iv": 32.4
+      },
+      {
+        "strike": 300,
+        "call_ltp": 6.4,
+        "put_ltp": 60.1,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.2,
+        "put_delta": -0.8,
+        "iv": 32.4
+      }
+    ]
+  },
+  {
+    "symbol": "POWERGRID",
+    "spot_price": 289.15,
+    "atm_strike": 280,
+    "chain": [
+      {
+        "strike": 220,
+        "call_ltp": 75.6,
+        "put_ltp": 6.5,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.8,
+        "put_delta": -0.2,
+        "iv": 27.9
+      },
+      {
+        "strike": 240,
+        "call_ltp": 55.6,
+        "put_ltp": 6.5,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.7,
+        "put_delta": -0.3,
+        "iv": 27.9
+      },
+      {
+        "strike": 260,
+        "call_ltp": 35.6,
+        "put_ltp": 6.5,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.6,
+        "put_delta": -0.4,
+        "iv": 27.9
+      },
+      {
+        "strike": 280,
+        "call_ltp": 15.6,
+        "put_ltp": 6.5,
+        "call_moneyness": "ITM",
+        "put_moneyness": "ATM",
+        "call_delta": 0.5,
+        "put_delta": -0.5,
+        "iv": 27.9
+      },
+      {
+        "strike": 300,
+        "call_ltp": 6.5,
+        "put_ltp": 17.4,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.4,
+        "put_delta": -0.6,
+        "iv": 27.9
+      },
+      {
+        "strike": 320,
+        "call_ltp": 6.5,
+        "put_ltp": 37.4,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.3,
+        "put_delta": -0.7,
+        "iv": 27.9
+      },
+      {
+        "strike": 340,
+        "call_ltp": 6.5,
+        "put_ltp": 57.4,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.2,
+        "put_delta": -0.8,
+        "iv": 27.9
+      }
+    ]
+  },
+  {
+    "symbol": "BPCL",
+    "spot_price": 338.7,
+    "atm_strike": 340,
+    "chain": [
+      {
+        "strike": 280,
+        "call_ltp": 67.3,
+        "put_ltp": 8.6,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.8,
+        "put_delta": -0.2,
+        "iv": 31.9
+      },
+      {
+        "strike": 300,
+        "call_ltp": 47.3,
+        "put_ltp": 8.6,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.7,
+        "put_delta": -0.3,
+        "iv": 31.9
+      },
+      {
+        "strike": 320,
+        "call_ltp": 27.3,
+        "put_ltp": 8.6,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.6,
+        "put_delta": -0.4,
+        "iv": 31.9
+      },
+      {
+        "strike": 340,
+        "call_ltp": 8.6,
+        "put_ltp": 9.9,
+        "call_moneyness": "ATM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.5,
+        "put_delta": -0.5,
+        "iv": 31.9
+      },
+      {
+        "strike": 360,
+        "call_ltp": 8.6,
+        "put_ltp": 29.9,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.4,
+        "put_delta": -0.6,
+        "iv": 31.9
+      },
+      {
+        "strike": 380,
+        "call_ltp": 8.6,
+        "put_ltp": 49.9,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.3,
+        "put_delta": -0.7,
+        "iv": 31.9
+      },
+      {
+        "strike": 400,
+        "call_ltp": 8.6,
+        "put_ltp": 69.9,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.2,
+        "put_delta": -0.8,
+        "iv": 31.9
+      }
+    ]
+  },
+  {
+    "symbol": "COALINDIA",
+    "spot_price": 384.5,
+    "atm_strike": 380,
+    "chain": [
+      {
+        "strike": 320,
+        "call_ltp": 73.3,
+        "put_ltp": 8.8,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.8,
+        "put_delta": -0.2,
+        "iv": 28.5
+      },
+      {
+        "strike": 340,
+        "call_ltp": 53.3,
+        "put_ltp": 8.8,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.7,
+        "put_delta": -0.3,
+        "iv": 28.5
+      },
+      {
+        "strike": 360,
+        "call_ltp": 33.3,
+        "put_ltp": 8.8,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.6,
+        "put_delta": -0.4,
+        "iv": 28.5
+      },
+      {
+        "strike": 380,
+        "call_ltp": 13.3,
+        "put_ltp": 8.8,
+        "call_moneyness": "ITM",
+        "put_moneyness": "ATM",
+        "call_delta": 0.5,
+        "put_delta": -0.5,
+        "iv": 28.5
+      },
+      {
+        "strike": 400,
+        "call_ltp": 8.8,
+        "put_ltp": 24.3,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.4,
+        "put_delta": -0.6,
+        "iv": 28.5
+      },
+      {
+        "strike": 420,
+        "call_ltp": 8.8,
+        "put_ltp": 44.3,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.3,
+        "put_delta": -0.7,
+        "iv": 28.5
+      },
+      {
+        "strike": 440,
+        "call_ltp": 8.8,
+        "put_ltp": 64.3,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.2,
+        "put_delta": -0.8,
+        "iv": 28.5
+      }
+    ]
+  },
+  {
+    "symbol": "TATASTEEL",
+    "spot_price": 173.86,
+    "atm_strike": 170,
+    "chain": [
+      {
+        "strike": 140,
+        "call_ltp": 38.0,
+        "put_ltp": 4.1,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.8,
+        "put_delta": -0.2,
+        "iv": 29.6
+      },
+      {
+        "strike": 150,
+        "call_ltp": 28.0,
+        "put_ltp": 4.1,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.7,
+        "put_delta": -0.3,
+        "iv": 29.6
+      },
+      {
+        "strike": 160,
+        "call_ltp": 18.0,
+        "put_ltp": 4.1,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.6,
+        "put_delta": -0.4,
+        "iv": 29.6
+      },
+      {
+        "strike": 170,
+        "call_ltp": 8.0,
+        "put_ltp": 4.1,
+        "call_moneyness": "ITM",
+        "put_moneyness": "ATM",
+        "call_delta": 0.5,
+        "put_delta": -0.5,
+        "iv": 29.6
+      },
+      {
+        "strike": 180,
+        "call_ltp": 4.1,
+        "put_ltp": 10.2,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.4,
+        "put_delta": -0.6,
+        "iv": 29.6
+      },
+      {
+        "strike": 190,
+        "call_ltp": 4.1,
+        "put_ltp": 20.2,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.3,
+        "put_delta": -0.7,
+        "iv": 29.6
+      },
+      {
+        "strike": 200,
+        "call_ltp": 4.1,
+        "put_ltp": 30.2,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.2,
+        "put_delta": -0.8,
+        "iv": 29.6
+      }
+    ]
+  },
+  {
+    "symbol": "JSWSTEEL",
+    "spot_price": 1167.8,
+    "atm_strike": 1150,
+    "chain": [
+      {
+        "strike": 1000,
+        "call_ltp": 191.9,
+        "put_ltp": 24.1,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.8,
+        "put_delta": -0.2,
+        "iv": 25.8
+      },
+      {
+        "strike": 1050,
+        "call_ltp": 141.9,
+        "put_ltp": 24.1,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.7,
+        "put_delta": -0.3,
+        "iv": 25.8
+      },
+      {
+        "strike": 1100,
+        "call_ltp": 91.9,
+        "put_ltp": 24.1,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.6,
+        "put_delta": -0.4,
+        "iv": 25.8
+      },
+      {
+        "strike": 1150,
+        "call_ltp": 41.9,
+        "put_ltp": 24.1,
+        "call_moneyness": "ITM",
+        "put_moneyness": "ATM",
+        "call_delta": 0.5,
+        "put_delta": -0.5,
+        "iv": 25.8
+      },
+      {
+        "strike": 1200,
+        "call_ltp": 24.1,
+        "put_ltp": 56.3,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.4,
+        "put_delta": -0.6,
+        "iv": 25.8
+      },
+      {
+        "strike": 1250,
+        "call_ltp": 24.1,
+        "put_ltp": 106.3,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.3,
+        "put_delta": -0.7,
+        "iv": 25.8
+      },
+      {
+        "strike": 1300,
+        "call_ltp": 24.1,
+        "put_ltp": 156.3,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.2,
+        "put_delta": -0.8,
+        "iv": 25.8
+      }
+    ]
+  },
+  {
+    "symbol": "HINDALCO",
+    "spot_price": 773.95,
+    "atm_strike": 780,
+    "chain": [
+      {
+        "strike": 720,
+        "call_ltp": 72.4,
+        "put_ltp": 18.4,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.8,
+        "put_delta": -0.2,
+        "iv": 29.7
+      },
+      {
+        "strike": 740,
+        "call_ltp": 52.4,
+        "put_ltp": 18.4,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.7,
+        "put_delta": -0.3,
+        "iv": 29.7
+      },
+      {
+        "strike": 760,
+        "call_ltp": 32.4,
+        "put_ltp": 18.4,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.6,
+        "put_delta": -0.4,
+        "iv": 29.7
+      },
+      {
+        "strike": 780,
+        "call_ltp": 18.4,
+        "put_ltp": 24.4,
+        "call_moneyness": "ATM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.5,
+        "put_delta": -0.5,
+        "iv": 29.7
+      },
+      {
+        "strike": 800,
+        "call_ltp": 18.4,
+        "put_ltp": 44.4,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.4,
+        "put_delta": -0.6,
+        "iv": 29.7
+      },
+      {
+        "strike": 820,
+        "call_ltp": 18.4,
+        "put_ltp": 64.4,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.3,
+        "put_delta": -0.7,
+        "iv": 29.7
+      },
+      {
+        "strike": 840,
+        "call_ltp": 18.4,
+        "put_ltp": 84.4,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.2,
+        "put_delta": -0.8,
+        "iv": 29.7
+      }
+    ]
+  },
+  {
+    "symbol": "SUNPHARMA",
+    "spot_price": 1670.9,
+    "atm_strike": 1650,
+    "chain": [
+      {
+        "strike": 1500,
+        "call_ltp": 198.2,
+        "put_ltp": 27.3,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.8,
+        "put_delta": -0.2,
+        "iv": 20.4
+      },
+      {
+        "strike": 1550,
+        "call_ltp": 148.2,
+        "put_ltp": 27.3,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.7,
+        "put_delta": -0.3,
+        "iv": 20.4
+      },
+      {
+        "strike": 1600,
+        "call_ltp": 98.2,
+        "put_ltp": 27.3,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.6,
+        "put_delta": -0.4,
+        "iv": 20.4
+      },
+      {
+        "strike": 1650,
+        "call_ltp": 48.2,
+        "put_ltp": 27.3,
+        "call_moneyness": "ITM",
+        "put_moneyness": "ATM",
+        "call_delta": 0.5,
+        "put_delta": -0.5,
+        "iv": 20.4
+      },
+      {
+        "strike": 1700,
+        "call_ltp": 27.3,
+        "put_ltp": 56.4,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.4,
+        "put_delta": -0.6,
+        "iv": 20.4
+      },
+      {
+        "strike": 1750,
+        "call_ltp": 27.3,
+        "put_ltp": 106.4,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.3,
+        "put_delta": -0.7,
+        "iv": 20.4
+      },
+      {
+        "strike": 1800,
+        "call_ltp": 27.3,
+        "put_ltp": 156.4,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.2,
+        "put_delta": -0.8,
+        "iv": 20.4
+      }
+    ]
+  },
+  {
+    "symbol": "CIPLA",
+    "spot_price": 1561.8,
+    "atm_strike": 1550,
+    "chain": [
+      {
+        "strike": 1400,
+        "call_ltp": 191.4,
+        "put_ltp": 29.6,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.8,
+        "put_delta": -0.2,
+        "iv": 23.7
+      },
+      {
+        "strike": 1450,
+        "call_ltp": 141.4,
+        "put_ltp": 29.6,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.7,
+        "put_delta": -0.3,
+        "iv": 23.7
+      },
+      {
+        "strike": 1500,
+        "call_ltp": 91.4,
+        "put_ltp": 29.6,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.6,
+        "put_delta": -0.4,
+        "iv": 23.7
+      },
+      {
+        "strike": 1550,
+        "call_ltp": 41.4,
+        "put_ltp": 29.6,
+        "call_moneyness": "ITM",
+        "put_moneyness": "ATM",
+        "call_delta": 0.5,
+        "put_delta": -0.5,
+        "iv": 23.7
+      },
+      {
+        "strike": 1600,
+        "call_ltp": 29.6,
+        "put_ltp": 67.8,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.4,
+        "put_delta": -0.6,
+        "iv": 23.7
+      },
+      {
+        "strike": 1650,
+        "call_ltp": 29.6,
+        "put_ltp": 117.8,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.3,
+        "put_delta": -0.7,
+        "iv": 23.7
+      },
+      {
+        "strike": 1700,
+        "call_ltp": 29.6,
+        "put_ltp": 167.8,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.2,
+        "put_delta": -0.8,
+        "iv": 23.7
+      }
+    ]
+  },
+  {
+    "symbol": "DRREDDY",
+    "spot_price": 1264.4,
+    "atm_strike": 1250,
+    "chain": [
+      {
+        "strike": 1100,
+        "call_ltp": 185.5,
+        "put_ltp": 21.1,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.8,
+        "put_delta": -0.2,
+        "iv": 20.8
+      },
+      {
+        "strike": 1150,
+        "call_ltp": 135.5,
+        "put_ltp": 21.1,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.7,
+        "put_delta": -0.3,
+        "iv": 20.8
+      },
+      {
+        "strike": 1200,
+        "call_ltp": 85.5,
+        "put_ltp": 21.1,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.6,
+        "put_delta": -0.4,
+        "iv": 20.8
+      },
+      {
+        "strike": 1250,
+        "call_ltp": 35.5,
+        "put_ltp": 21.1,
+        "call_moneyness": "ITM",
+        "put_moneyness": "ATM",
+        "call_delta": 0.5,
+        "put_delta": -0.5,
+        "iv": 20.8
+      },
+      {
+        "strike": 1300,
+        "call_ltp": 21.1,
+        "put_ltp": 56.7,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.4,
+        "put_delta": -0.6,
+        "iv": 20.8
+      },
+      {
+        "strike": 1350,
+        "call_ltp": 21.1,
+        "put_ltp": 106.7,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.3,
+        "put_delta": -0.7,
+        "iv": 20.8
+      },
+      {
+        "strike": 1400,
+        "call_ltp": 21.1,
+        "put_ltp": 156.7,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.2,
+        "put_delta": -0.8,
+        "iv": 20.8
+      }
+    ]
+  },
+  {
+    "symbol": "DIVISLAB",
+    "spot_price": 6474.5,
+    "atm_strike": 6500,
+    "chain": [
+      {
+        "strike": 6200,
+        "call_ltp": 411.8,
+        "put_ltp": 137.3,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.8,
+        "put_delta": -0.2,
+        "iv": 26.5
+      },
+      {
+        "strike": 6300,
+        "call_ltp": 311.8,
+        "put_ltp": 137.3,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.7,
+        "put_delta": -0.3,
+        "iv": 26.5
+      },
+      {
+        "strike": 6400,
+        "call_ltp": 211.8,
+        "put_ltp": 137.3,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.6,
+        "put_delta": -0.4,
+        "iv": 26.5
+      },
+      {
+        "strike": 6500,
+        "call_ltp": 137.3,
+        "put_ltp": 162.8,
+        "call_moneyness": "ATM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.5,
+        "put_delta": -0.5,
+        "iv": 26.5
+      },
+      {
+        "strike": 6600,
+        "call_ltp": 137.3,
+        "put_ltp": 262.8,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.4,
+        "put_delta": -0.6,
+        "iv": 26.5
+      },
+      {
+        "strike": 6700,
+        "call_ltp": 137.3,
+        "put_ltp": 362.8,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.3,
+        "put_delta": -0.7,
+        "iv": 26.5
+      },
+      {
+        "strike": 6800,
+        "call_ltp": 137.3,
+        "put_ltp": 462.8,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.2,
+        "put_delta": -0.8,
+        "iv": 26.5
+      }
+    ]
+  },
+  {
+    "symbol": "APOLLOHOSP",
+    "spot_price": 7681.0,
+    "atm_strike": 7700,
+    "chain": [
+      {
+        "strike": 7400,
+        "call_ltp": 416.4,
+        "put_ltp": 135.4,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.8,
+        "put_delta": -0.2,
+        "iv": 22.0
+      },
+      {
+        "strike": 7500,
+        "call_ltp": 316.4,
+        "put_ltp": 135.4,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.7,
+        "put_delta": -0.3,
+        "iv": 22.0
+      },
+      {
+        "strike": 7600,
+        "call_ltp": 216.4,
+        "put_ltp": 135.4,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.6,
+        "put_delta": -0.4,
+        "iv": 22.0
+      },
+      {
+        "strike": 7700,
+        "call_ltp": 135.4,
+        "put_ltp": 154.4,
+        "call_moneyness": "ATM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.5,
+        "put_delta": -0.5,
+        "iv": 22.0
+      },
+      {
+        "strike": 7800,
+        "call_ltp": 135.4,
+        "put_ltp": 254.4,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.4,
+        "put_delta": -0.6,
+        "iv": 22.0
+      },
+      {
+        "strike": 7900,
+        "call_ltp": 135.4,
+        "put_ltp": 354.4,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.3,
+        "put_delta": -0.7,
+        "iv": 22.0
+      },
+      {
+        "strike": 8000,
+        "call_ltp": 135.4,
+        "put_ltp": 454.4,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.2,
+        "put_delta": -0.8,
+        "iv": 22.0
+      }
+    ]
+  },
+  {
+    "symbol": "ITC",
+    "spot_price": 402.8,
+    "atm_strike": 400,
+    "chain": [
+      {
+        "strike": 340,
+        "call_ltp": 68.9,
+        "put_ltp": 6.1,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.8,
+        "put_delta": -0.2,
+        "iv": 18.8
+      },
+      {
+        "strike": 360,
+        "call_ltp": 48.9,
+        "put_ltp": 6.1,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.7,
+        "put_delta": -0.3,
+        "iv": 18.8
+      },
+      {
+        "strike": 380,
+        "call_ltp": 28.9,
+        "put_ltp": 6.1,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.6,
+        "put_delta": -0.4,
+        "iv": 18.8
+      },
+      {
+        "strike": 400,
+        "call_ltp": 8.9,
+        "put_ltp": 6.1,
+        "call_moneyness": "ITM",
+        "put_moneyness": "ATM",
+        "call_delta": 0.5,
+        "put_delta": -0.5,
+        "iv": 18.8
+      },
+      {
+        "strike": 420,
+        "call_ltp": 6.1,
+        "put_ltp": 23.3,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.4,
+        "put_delta": -0.6,
+        "iv": 18.8
+      },
+      {
+        "strike": 440,
+        "call_ltp": 6.1,
+        "put_ltp": 43.3,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.3,
+        "put_delta": -0.7,
+        "iv": 18.8
+      },
+      {
+        "strike": 460,
+        "call_ltp": 6.1,
+        "put_ltp": 63.3,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.2,
+        "put_delta": -0.8,
+        "iv": 18.8
+      }
+    ]
+  },
+  {
+    "symbol": "BHARTIARTL",
+    "spot_price": 1939.9,
+    "atm_strike": 1950,
+    "chain": [
+      {
+        "strike": 1800,
+        "call_ltp": 174.2,
+        "put_ltp": 34.3,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.8,
+        "put_delta": -0.2,
+        "iv": 22.1
+      },
+      {
+        "strike": 1850,
+        "call_ltp": 124.2,
+        "put_ltp": 34.3,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.7,
+        "put_delta": -0.3,
+        "iv": 22.1
+      },
+      {
+        "strike": 1900,
+        "call_ltp": 74.2,
+        "put_ltp": 34.3,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.6,
+        "put_delta": -0.4,
+        "iv": 22.1
+      },
+      {
+        "strike": 1950,
+        "call_ltp": 34.3,
+        "put_ltp": 44.4,
+        "call_moneyness": "ATM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.5,
+        "put_delta": -0.5,
+        "iv": 22.1
+      },
+      {
+        "strike": 2000,
+        "call_ltp": 34.3,
+        "put_ltp": 94.4,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.4,
+        "put_delta": -0.6,
+        "iv": 22.1
+      },
+      {
+        "strike": 2050,
+        "call_ltp": 34.3,
+        "put_ltp": 144.4,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.3,
+        "put_delta": -0.7,
+        "iv": 22.1
+      },
+      {
+        "strike": 2100,
+        "call_ltp": 34.3,
+        "put_ltp": 194.4,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.2,
+        "put_delta": -0.8,
+        "iv": 22.1
+      }
+    ]
+  },
+  {
+    "symbol": "TITAN",
+    "spot_price": 3531.9,
+    "atm_strike": 3550,
+    "chain": [
+      {
+        "strike": 3400,
+        "call_ltp": 196.3,
+        "put_ltp": 64.4,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.8,
+        "put_delta": -0.2,
+        "iv": 22.8
+      },
+      {
+        "strike": 3450,
+        "call_ltp": 146.3,
+        "put_ltp": 64.4,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.7,
+        "put_delta": -0.3,
+        "iv": 22.8
+      },
+      {
+        "strike": 3500,
+        "call_ltp": 96.3,
+        "put_ltp": 64.4,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.6,
+        "put_delta": -0.4,
+        "iv": 22.8
+      },
+      {
+        "strike": 3550,
+        "call_ltp": 64.4,
+        "put_ltp": 82.5,
+        "call_moneyness": "ATM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.5,
+        "put_delta": -0.5,
+        "iv": 22.8
+      },
+      {
+        "strike": 3600,
+        "call_ltp": 64.4,
+        "put_ltp": 132.5,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.4,
+        "put_delta": -0.6,
+        "iv": 22.8
+      },
+      {
+        "strike": 3650,
+        "call_ltp": 64.4,
+        "put_ltp": 182.5,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.3,
+        "put_delta": -0.7,
+        "iv": 22.8
+      },
+      {
+        "strike": 3700,
+        "call_ltp": 64.4,
+        "put_ltp": 232.5,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.2,
+        "put_delta": -0.8,
+        "iv": 22.8
+      }
+    ]
+  },
+  {
+    "symbol": "ASIANPAINT",
+    "spot_price": 2340.2,
+    "atm_strike": 2350,
+    "chain": [
+      {
+        "strike": 2200,
+        "call_ltp": 177.8,
+        "put_ltp": 37.6,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.8,
+        "put_delta": -0.2,
+        "iv": 20.1
+      },
+      {
+        "strike": 2250,
+        "call_ltp": 127.8,
+        "put_ltp": 37.6,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.7,
+        "put_delta": -0.3,
+        "iv": 20.1
+      },
+      {
+        "strike": 2300,
+        "call_ltp": 77.8,
+        "put_ltp": 37.6,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.6,
+        "put_delta": -0.4,
+        "iv": 20.1
+      },
+      {
+        "strike": 2350,
+        "call_ltp": 37.6,
+        "put_ltp": 47.4,
+        "call_moneyness": "ATM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.5,
+        "put_delta": -0.5,
+        "iv": 20.1
+      },
+      {
+        "strike": 2400,
+        "call_ltp": 37.6,
+        "put_ltp": 97.4,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.4,
+        "put_delta": -0.6,
+        "iv": 20.1
+      },
+      {
+        "strike": 2450,
+        "call_ltp": 37.6,
+        "put_ltp": 147.4,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.3,
+        "put_delta": -0.7,
+        "iv": 20.1
+      },
+      {
+        "strike": 2500,
+        "call_ltp": 37.6,
+        "put_ltp": 197.4,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.2,
+        "put_delta": -0.8,
+        "iv": 20.1
+      }
+    ]
+  },
+  {
+    "symbol": "NESTLEIND",
+    "spot_price": 1199.5,
+    "atm_strike": 1200,
+    "chain": [
+      {
+        "strike": 1050,
+        "call_ltp": 168.2,
+        "put_ltp": 18.7,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.8,
+        "put_delta": -0.2,
+        "iv": 19.5
+      },
+      {
+        "strike": 1100,
+        "call_ltp": 118.2,
+        "put_ltp": 18.7,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.7,
+        "put_delta": -0.3,
+        "iv": 19.5
+      },
+      {
+        "strike": 1150,
+        "call_ltp": 68.2,
+        "put_ltp": 18.7,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.6,
+        "put_delta": -0.4,
+        "iv": 19.5
+      },
+      {
+        "strike": 1200,
+        "call_ltp": 18.7,
+        "put_ltp": 19.2,
+        "call_moneyness": "ATM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.5,
+        "put_delta": -0.5,
+        "iv": 19.5
+      },
+      {
+        "strike": 1250,
+        "call_ltp": 18.7,
+        "put_ltp": 69.2,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.4,
+        "put_delta": -0.6,
+        "iv": 19.5
+      },
+      {
+        "strike": 1300,
+        "call_ltp": 18.7,
+        "put_ltp": 119.2,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.3,
+        "put_delta": -0.7,
+        "iv": 19.5
+      },
+      {
+        "strike": 1350,
+        "call_ltp": 18.7,
+        "put_ltp": 169.2,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.2,
+        "put_delta": -0.8,
+        "iv": 19.5
+      }
+    ]
+  },
+  {
+    "symbol": "BRITANNIA",
+    "spot_price": 5871.5,
+    "atm_strike": 5900,
+    "chain": [
+      {
+        "strike": 5600,
+        "call_ltp": 369.4,
+        "put_ltp": 97.9,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.8,
+        "put_delta": -0.2,
+        "iv": 20.9
+      },
+      {
+        "strike": 5700,
+        "call_ltp": 269.4,
+        "put_ltp": 97.9,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.7,
+        "put_delta": -0.3,
+        "iv": 20.9
+      },
+      {
+        "strike": 5800,
+        "call_ltp": 169.4,
+        "put_ltp": 97.9,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.6,
+        "put_delta": -0.4,
+        "iv": 20.9
+      },
+      {
+        "strike": 5900,
+        "call_ltp": 97.9,
+        "put_ltp": 126.4,
+        "call_moneyness": "ATM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.5,
+        "put_delta": -0.5,
+        "iv": 20.9
+      },
+      {
+        "strike": 6000,
+        "call_ltp": 97.9,
+        "put_ltp": 226.4,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.4,
+        "put_delta": -0.6,
+        "iv": 20.9
+      },
+      {
+        "strike": 6100,
+        "call_ltp": 97.9,
+        "put_ltp": 326.4,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.3,
+        "put_delta": -0.7,
+        "iv": 20.9
+      },
+      {
+        "strike": 6200,
+        "call_ltp": 97.9,
+        "put_ltp": 426.4,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.2,
+        "put_delta": -0.8,
+        "iv": 20.9
+      }
+    ]
+  },
+  {
+    "symbol": "TRENT",
+    "spot_price": 3127.6,
+    "atm_strike": 3150,
+    "chain": [
+      {
+        "strike": 3000,
+        "call_ltp": 226.6,
+        "put_ltp": 99.0,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.8,
+        "put_delta": -0.2,
+        "iv": 39.6
+      },
+      {
+        "strike": 3050,
+        "call_ltp": 176.6,
+        "put_ltp": 99.0,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.7,
+        "put_delta": -0.3,
+        "iv": 39.6
+      },
+      {
+        "strike": 3100,
+        "call_ltp": 126.6,
+        "put_ltp": 99.0,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.6,
+        "put_delta": -0.4,
+        "iv": 39.6
+      },
+      {
+        "strike": 3150,
+        "call_ltp": 99.0,
+        "put_ltp": 121.4,
+        "call_moneyness": "ATM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.5,
+        "put_delta": -0.5,
+        "iv": 39.6
+      },
+      {
+        "strike": 3200,
+        "call_ltp": 99.0,
+        "put_ltp": 171.4,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.4,
+        "put_delta": -0.6,
+        "iv": 39.6
+      },
+      {
+        "strike": 3250,
+        "call_ltp": 99.0,
+        "put_ltp": 221.4,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.3,
+        "put_delta": -0.7,
+        "iv": 39.6
+      },
+      {
+        "strike": 3300,
+        "call_ltp": 99.0,
+        "put_ltp": 271.4,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.2,
+        "put_delta": -0.8,
+        "iv": 39.6
+      }
+    ]
+  },
+  {
+    "symbol": "LT",
+    "spot_price": 3784.0,
+    "atm_strike": 3800,
+    "chain": [
+      {
+        "strike": 3650,
+        "call_ltp": 212.8,
+        "put_ltp": 78.8,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.8,
+        "put_delta": -0.2,
+        "iv": 26.0
+      },
+      {
+        "strike": 3700,
+        "call_ltp": 162.8,
+        "put_ltp": 78.8,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.7,
+        "put_delta": -0.3,
+        "iv": 26.0
+      },
+      {
+        "strike": 3750,
+        "call_ltp": 112.8,
+        "put_ltp": 78.8,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.6,
+        "put_delta": -0.4,
+        "iv": 26.0
+      },
+      {
+        "strike": 3800,
+        "call_ltp": 78.8,
+        "put_ltp": 94.8,
+        "call_moneyness": "ATM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.5,
+        "put_delta": -0.5,
+        "iv": 26.0
+      },
+      {
+        "strike": 3850,
+        "call_ltp": 78.8,
+        "put_ltp": 144.8,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.4,
+        "put_delta": -0.6,
+        "iv": 26.0
+      },
+      {
+        "strike": 3900,
+        "call_ltp": 78.8,
+        "put_ltp": 194.8,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.3,
+        "put_delta": -0.7,
+        "iv": 26.0
+      },
+      {
+        "strike": 3950,
+        "call_ltp": 78.8,
+        "put_ltp": 244.8,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.2,
+        "put_delta": -0.8,
+        "iv": 26.0
+      }
+    ]
+  },
+  {
+    "symbol": "HAL",
+    "spot_price": 4832.9,
+    "atm_strike": 4850,
+    "chain": [
+      {
+        "strike": 4700,
+        "call_ltp": 277.9,
+        "put_ltp": 145.0,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.8,
+        "put_delta": -0.2,
+        "iv": 37.5
+      },
+      {
+        "strike": 4750,
+        "call_ltp": 227.9,
+        "put_ltp": 145.0,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.7,
+        "put_delta": -0.3,
+        "iv": 37.5
+      },
+      {
+        "strike": 4800,
+        "call_ltp": 177.9,
+        "put_ltp": 145.0,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.6,
+        "put_delta": -0.4,
+        "iv": 37.5
+      },
+      {
+        "strike": 4850,
+        "call_ltp": 145.0,
+        "put_ltp": 162.1,
+        "call_moneyness": "ATM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.5,
+        "put_delta": -0.5,
+        "iv": 37.5
+      },
+      {
+        "strike": 4900,
+        "call_ltp": 145.0,
+        "put_ltp": 212.1,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.4,
+        "put_delta": -0.6,
+        "iv": 37.5
+      },
+      {
+        "strike": 4950,
+        "call_ltp": 145.0,
+        "put_ltp": 262.1,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.3,
+        "put_delta": -0.7,
+        "iv": 37.5
+      },
+      {
+        "strike": 5000,
+        "call_ltp": 145.0,
+        "put_ltp": 312.1,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.2,
+        "put_delta": -0.8,
+        "iv": 37.5
+      }
+    ]
+  },
+  {
+    "symbol": "BEL",
+    "spot_price": 413.5,
+    "atm_strike": 420,
+    "chain": [
+      {
+        "strike": 360,
+        "call_ltp": 65.1,
+        "put_ltp": 11.6,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.8,
+        "put_delta": -0.2,
+        "iv": 35.1
+      },
+      {
+        "strike": 380,
+        "call_ltp": 45.1,
+        "put_ltp": 11.6,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.7,
+        "put_delta": -0.3,
+        "iv": 35.1
+      },
+      {
+        "strike": 400,
+        "call_ltp": 25.1,
+        "put_ltp": 11.6,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.6,
+        "put_delta": -0.4,
+        "iv": 35.1
+      },
+      {
+        "strike": 420,
+        "call_ltp": 11.6,
+        "put_ltp": 18.1,
+        "call_moneyness": "ATM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.5,
+        "put_delta": -0.5,
+        "iv": 35.1
+      },
+      {
+        "strike": 440,
+        "call_ltp": 11.6,
+        "put_ltp": 38.1,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.4,
+        "put_delta": -0.6,
+        "iv": 35.1
+      },
+      {
+        "strike": 460,
+        "call_ltp": 11.6,
+        "put_ltp": 58.1,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.3,
+        "put_delta": -0.7,
+        "iv": 35.1
+      },
+      {
+        "strike": 480,
+        "call_ltp": 11.6,
+        "put_ltp": 78.1,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.2,
+        "put_delta": -0.8,
+        "iv": 35.1
+      }
+    ]
+  },
+  {
+    "symbol": "ADANIENT",
+    "spot_price": 2550.9,
+    "atm_strike": 2550,
+    "chain": [
+      {
+        "strike": 2400,
+        "call_ltp": 232.1,
+        "put_ltp": 81.2,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.8,
+        "put_delta": -0.2,
+        "iv": 39.8
+      },
+      {
+        "strike": 2450,
+        "call_ltp": 182.1,
+        "put_ltp": 81.2,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.7,
+        "put_delta": -0.3,
+        "iv": 39.8
+      },
+      {
+        "strike": 2500,
+        "call_ltp": 132.1,
+        "put_ltp": 81.2,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.6,
+        "put_delta": -0.4,
+        "iv": 39.8
+      },
+      {
+        "strike": 2550,
+        "call_ltp": 82.1,
+        "put_ltp": 81.2,
+        "call_moneyness": "ITM",
+        "put_moneyness": "ATM",
+        "call_delta": 0.5,
+        "put_delta": -0.5,
+        "iv": 39.8
+      },
+      {
+        "strike": 2600,
+        "call_ltp": 81.2,
+        "put_ltp": 130.3,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.4,
+        "put_delta": -0.6,
+        "iv": 39.8
+      },
+      {
+        "strike": 2650,
+        "call_ltp": 81.2,
+        "put_ltp": 180.3,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.3,
+        "put_delta": -0.7,
+        "iv": 39.8
+      },
+      {
+        "strike": 2700,
+        "call_ltp": 81.2,
+        "put_ltp": 230.3,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.2,
+        "put_delta": -0.8,
+        "iv": 39.8
+      }
+    ]
+  },
+  {
+    "symbol": "ADANIPORTS",
+    "spot_price": 1409.4,
+    "atm_strike": 1400,
+    "chain": [
+      {
+        "strike": 1250,
+        "call_ltp": 199.2,
+        "put_ltp": 39.8,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.8,
+        "put_delta": -0.2,
+        "iv": 35.3
+      },
+      {
+        "strike": 1300,
+        "call_ltp": 149.2,
+        "put_ltp": 39.8,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.7,
+        "put_delta": -0.3,
+        "iv": 35.3
+      },
+      {
+        "strike": 1350,
+        "call_ltp": 99.2,
+        "put_ltp": 39.8,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.6,
+        "put_delta": -0.4,
+        "iv": 35.3
+      },
+      {
+        "strike": 1400,
+        "call_ltp": 49.2,
+        "put_ltp": 39.8,
+        "call_moneyness": "ITM",
+        "put_moneyness": "ATM",
+        "call_delta": 0.5,
+        "put_delta": -0.5,
+        "iv": 35.3
+      },
+      {
+        "strike": 1450,
+        "call_ltp": 39.8,
+        "put_ltp": 80.4,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.4,
+        "put_delta": -0.6,
+        "iv": 35.3
+      },
+      {
+        "strike": 1500,
+        "call_ltp": 39.8,
+        "put_ltp": 130.4,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.3,
+        "put_delta": -0.7,
+        "iv": 35.3
+      },
+      {
+        "strike": 1550,
+        "call_ltp": 39.8,
+        "put_ltp": 180.4,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.2,
+        "put_delta": -0.8,
+        "iv": 35.3
+      }
+    ]
+  },
+  {
+    "symbol": "ULTRACEMCO",
+    "spot_price": 12281.0,
+    "atm_strike": 12300,
+    "chain": [
+      {
+        "strike": 12000,
+        "call_ltp": 502.8,
+        "put_ltp": 221.8,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.8,
+        "put_delta": -0.2,
+        "iv": 22.6
+      },
+      {
+        "strike": 12100,
+        "call_ltp": 402.8,
+        "put_ltp": 221.8,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.7,
+        "put_delta": -0.3,
+        "iv": 22.6
+      },
+      {
+        "strike": 12200,
+        "call_ltp": 302.8,
+        "put_ltp": 221.8,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.6,
+        "put_delta": -0.4,
+        "iv": 22.6
+      },
+      {
+        "strike": 12300,
+        "call_ltp": 221.8,
+        "put_ltp": 240.8,
+        "call_moneyness": "ATM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.5,
+        "put_delta": -0.5,
+        "iv": 22.6
+      },
+      {
+        "strike": 12400,
+        "call_ltp": 221.8,
+        "put_ltp": 340.8,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.4,
+        "put_delta": -0.6,
+        "iv": 22.6
+      },
+      {
+        "strike": 12500,
+        "call_ltp": 221.8,
+        "put_ltp": 440.8,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.3,
+        "put_delta": -0.7,
+        "iv": 22.6
+      },
+      {
+        "strike": 12600,
+        "call_ltp": 221.8,
+        "put_ltp": 540.8,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.2,
+        "put_delta": -0.8,
+        "iv": 22.6
+      }
+    ]
+  },
+  {
+    "symbol": "ZOMATO",
+    "spot_price": 348.3,
+    "atm_strike": 340,
+    "chain": [
+      {
+        "strike": 280,
+        "call_ltp": 79.1,
+        "put_ltp": 10.8,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.8,
+        "put_delta": -0.2,
+        "iv": 38.8
+      },
+      {
+        "strike": 300,
+        "call_ltp": 59.1,
+        "put_ltp": 10.8,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.7,
+        "put_delta": -0.3,
+        "iv": 38.8
+      },
+      {
+        "strike": 320,
+        "call_ltp": 39.1,
+        "put_ltp": 10.8,
+        "call_moneyness": "ITM",
+        "put_moneyness": "OTM",
+        "call_delta": 0.6,
+        "put_delta": -0.4,
+        "iv": 38.8
+      },
+      {
+        "strike": 340,
+        "call_ltp": 19.1,
+        "put_ltp": 10.8,
+        "call_moneyness": "ITM",
+        "put_moneyness": "ATM",
+        "call_delta": 0.5,
+        "put_delta": -0.5,
+        "iv": 38.8
+      },
+      {
+        "strike": 360,
+        "call_ltp": 10.8,
+        "put_ltp": 22.5,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.4,
+        "put_delta": -0.6,
+        "iv": 38.8
+      },
+      {
+        "strike": 380,
+        "call_ltp": 10.8,
+        "put_ltp": 42.5,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.3,
+        "put_delta": -0.7,
+        "iv": 38.8
+      },
+      {
+        "strike": 400,
+        "call_ltp": 10.8,
+        "put_ltp": 62.5,
+        "call_moneyness": "OTM",
+        "put_moneyness": "ITM",
+        "call_delta": 0.2,
+        "put_delta": -0.8,
+        "iv": 38.8
+      }
+    ]
+  }
+]

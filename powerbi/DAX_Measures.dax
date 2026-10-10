@@ -1,0 +1,137 @@
+// ==============================================================================
+// AXIVEST — Portfolio Risk & Options Intelligence
+// Power BI DAX Measures Library
+// Author: Kandala Guru Balaji
+// Degree: B.Tech Computer Science and Business Systems (3rd Year)
+// Tagline: "See the risk. Test the downside."
+// ==============================================================================
+
+// ------------------------------------------------------------------------------
+// 1. EXECUTIVE KPI CARD MEASURES
+// ------------------------------------------------------------------------------
+
+// KPI 1: Average Annualized Volatility across Equities
+Average Annualized Volatility = 
+CALCULATE(
+    AVERAGE(annualized_volatility[annualized_volatility_pct]),
+    annualized_volatility[asset_type] = "Equity"
+) / 100.0
+// Format: Percentage (0.0%) -> Displays 22.7%
+
+// KPI 2: Worst Historical Drawdown
+Worst Historical Drawdown = 
+MIN(maximum_drawdown[max_drawdown_pct]) / 100.0
+// Format: Percentage (0.0%) -> Displays -52.7% (TCS)
+
+// KPI 3: Total Assets Analysed
+Total Assets Analysed = 
+DISTINCTCOUNT(annualized_volatility[stock])
+// Format: Whole Number -> Displays 11
+
+// KPI 4: Severe Stress Scenario Portfolio Loss
+Severe Stress Portfolio Loss = 
+CALCULATE(
+    MAX(stress_summary[portfolio_loss_pct]),
+    stress_summary[scenario] = "Severe Stress"
+) / 100.0
+// Format: Percentage (0.0%) -> Displays 22.7%
+
+// KPI 5: Number of Options Strategies Modelled
+Options Strategies Analysed = 
+DISTINCTCOUNT(options_summary[strategy])
+// Format: Whole Number -> Displays 3
+
+
+// ------------------------------------------------------------------------------
+// 2. MACRO STRESS TESTING MEASURES
+// ------------------------------------------------------------------------------
+
+// Selected Scenario Portfolio Return
+Stress Portfolio Return = 
+SELECTEDVALUE(stress_summary[portfolio_return_pct], 0) / 100.0
+// Format: Percentage (0.0%)
+
+// Estimated Portfolio Value After Stress (Starting baseline ₹100,000)
+Portfolio Value Post-Stress = 
+VAR Baseline = 100000
+VAR ReturnPct = SELECTEDVALUE(stress_summary[portfolio_return_pct], 0) / 100.0
+RETURN
+Baseline * (1 + ReturnPct)
+// Format: Currency (₹#,##0)
+
+// Absolute Loss in Rupees
+Portfolio Loss in INR = 
+VAR Baseline = 100000
+VAR LossPct = SELECTEDVALUE(stress_summary[portfolio_loss_pct], 0) / 100.0
+RETURN
+Baseline * LossPct
+// Format: Currency (₹#,##0)
+
+
+// ------------------------------------------------------------------------------
+// 3. HISTORICAL PRICE & PERFORMANCE MEASURES
+// ------------------------------------------------------------------------------
+
+// Latest Closing Price for Selected Stock
+Latest Close Price = 
+VAR MaxDate = MAX(daily_prices_unpivoted[Date])
+RETURN
+CALCULATE(
+    MAX(daily_prices_unpivoted[Price]),
+    daily_prices_unpivoted[Date] = MaxDate
+)
+// Format: Currency (₹#,##0.00)
+
+// Dynamic Starting Price (Earliest Date)
+Start Price = 
+VAR MinDate = MIN(daily_prices_unpivoted[Date])
+RETURN
+CALCULATE(
+    MIN(daily_prices_unpivoted[Price]),
+    daily_prices_unpivoted[Date] = MinDate
+)
+
+// Cumulative Period Return (%) for Selected Stock
+Cumulative Return Pct = 
+VAR P_Start = [Start Price]
+VAR P_Current = [Latest Close Price]
+RETURN
+IF(
+    ISBLANK(P_Start) || P_Start = 0,
+    BLANK(),
+    (P_Current - P_Start) / P_Start
+)
+// Format: Percentage (0.0%)
+
+// Rebased Normalized Price Index (Base 100 on start date)
+Rebased Price Index = 
+VAR P_Start = [Start Price]
+VAR P_Current = AVERAGE(daily_prices_unpivoted[Price])
+RETURN
+IF(
+    ISBLANK(P_Start) || P_Start = 0,
+    BLANK(),
+    (P_Current / P_Start) * 100.0
+)
+// Format: Decimal Number (0.0)
+
+
+// ------------------------------------------------------------------------------
+// 4. OPTIONS STRATEGY PAYOFF MEASURES
+// ------------------------------------------------------------------------------
+
+// Expiration Payoff per unit
+Expiration Profit Per Unit = 
+AVERAGE(options_payoff[net_profit_per_unit])
+// Format: Currency (₹#,##0)
+
+// Net Premium Paid / Collected
+Strategy Premium = 
+SELECTEDVALUE(options_summary[net_premium_paid_per_unit], 0)
+// Format: Currency (₹#,##0)
+
+// Conditional Formatting Color Code for Options Payoff (Green if profitable, Red if loss)
+Payoff Color Code = 
+VAR PnL = [Expiration Profit Per Unit]
+RETURN
+IF(PnL > 0, "#22C55E", IF(PnL < 0, "#EF4444", "#94A3B8"))

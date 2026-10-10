@@ -1,0 +1,4 @@
+scenario,portfolio_return_pct,portfolio_loss_pct,starting_portfolio_value,estimated_value_after_stress
+Mild Stress,-4.4,4.4,100000.0,95600.0
+Moderate Stress,-10.7,10.7,100000.0,89300.0
+Severe Stress,-22.7,22.7,100000.0,77300.0

@@ -1,0 +1,64 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Environment Variables & Secrets
+.env
+.env.*
+secrets.json
+
+# SQLite temporary journal and lock files
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Power BI temporary & cache files
+*.pbix.temp
+*.pbit
+
+# Node & Frontend dependencies and builds
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+dist-ssr/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+

@@ -1,0 +1,122 @@
+row_stock,col_stock,correlation
+Bharti Airtel,Bharti Airtel,1.0
+Bharti Airtel,HDFC Bank,0.2647
+Bharti Airtel,ICICI Bank,0.2631
+Bharti Airtel,Infosys,0.1781
+Bharti Airtel,ITC,0.2716
+Bharti Airtel,L&T,0.2451
+Bharti Airtel,M&M,0.3198
+Bharti Airtel,NTPC,0.1857
+Bharti Airtel,Reliance,0.3188
+Bharti Airtel,TCS,0.1601
+Bharti Airtel,NIFTY 50,0.4881
+HDFC Bank,Bharti Airtel,0.2647
+HDFC Bank,HDFC Bank,1.0
+HDFC Bank,ICICI Bank,0.5038
+HDFC Bank,Infosys,0.2057
+HDFC Bank,ITC,0.2534
+HDFC Bank,L&T,0.4593
+HDFC Bank,M&M,0.4084
+HDFC Bank,NTPC,0.2325
+HDFC Bank,Reliance,0.3887
+HDFC Bank,TCS,0.1933
+HDFC Bank,NIFTY 50,0.7091
+ICICI Bank,Bharti Airtel,0.2631
+ICICI Bank,HDFC Bank,0.5038
+ICICI Bank,ICICI Bank,1.0
+ICICI Bank,Infosys,0.1282
+ICICI Bank,ITC,0.2119
+ICICI Bank,L&T,0.4008
+ICICI Bank,M&M,0.4117
+ICICI Bank,NTPC,0.273
+ICICI Bank,Reliance,0.2773
+ICICI Bank,TCS,0.172
+ICICI Bank,NIFTY 50,0.6356
+Infosys,Bharti Airtel,0.1781
+Infosys,HDFC Bank,0.2057
+Infosys,ICICI Bank,0.1282
+Infosys,Infosys,1.0
+Infosys,ITC,0.1093
+Infosys,L&T,0.2156
+Infosys,M&M,0.2288
+Infosys,NTPC,0.0465
+Infosys,Reliance,0.1923
+Infosys,TCS,0.7448
+Infosys,NIFTY 50,0.417
+ITC,Bharti Airtel,0.2716
+ITC,HDFC Bank,0.2534
+ITC,ICICI Bank,0.2119
+ITC,Infosys,0.1093
+ITC,ITC,1.0
+ITC,L&T,0.2657
+ITC,M&M,0.2552
+ITC,NTPC,0.1798
+ITC,Reliance,0.3222
+ITC,TCS,0.1962
+ITC,NIFTY 50,0.4426
+L&T,Bharti Airtel,0.2451
+L&T,HDFC Bank,0.4593
+L&T,ICICI Bank,0.4008
+L&T,Infosys,0.2156
+L&T,ITC,0.2657
+L&T,L&T,1.0
+L&T,M&M,0.3932
+L&T,NTPC,0.4249
+L&T,Reliance,0.4431
+L&T,TCS,0.2582
+L&T,NIFTY 50,0.6988
+M&M,Bharti Airtel,0.3198
+M&M,HDFC Bank,0.4084
+M&M,ICICI Bank,0.4117
+M&M,Infosys,0.2288
+M&M,ITC,0.2552
+M&M,L&T,0.3932
+M&M,M&M,1.0
+M&M,NTPC,0.2577
+M&M,Reliance,0.3577
+M&M,TCS,0.2333
+M&M,NIFTY 50,0.6492
+NTPC,Bharti Airtel,0.1857
+NTPC,HDFC Bank,0.2325
+NTPC,ICICI Bank,0.273
+NTPC,Infosys,0.0465
+NTPC,ITC,0.1798
+NTPC,L&T,0.4249
+NTPC,M&M,0.2577
+NTPC,NTPC,1.0
+NTPC,Reliance,0.3715
+NTPC,TCS,0.065
+NTPC,NIFTY 50,0.4912
+Reliance,Bharti Airtel,0.3188
+Reliance,HDFC Bank,0.3887
+Reliance,ICICI Bank,0.2773
+Reliance,Infosys,0.1923
+Reliance,ITC,0.3222
+Reliance,L&T,0.4431
+Reliance,M&M,0.3577
+Reliance,NTPC,0.3715
+Reliance,Reliance,1.0
+Reliance,TCS,0.2427
+Reliance,NIFTY 50,0.6567
+TCS,Bharti Airtel,0.1601
+TCS,HDFC Bank,0.1933
+TCS,ICICI Bank,0.172
+TCS,Infosys,0.7448
+TCS,ITC,0.1962
+TCS,L&T,0.2582
+TCS,M&M,0.2333
+TCS,NTPC,0.065
+TCS,Reliance,0.2427
+TCS,TCS,1.0
+TCS,NIFTY 50,0.4399
+NIFTY 50,Bharti Airtel,0.4881
+NIFTY 50,HDFC Bank,0.7091
+NIFTY 50,ICICI Bank,0.6356
+NIFTY 50,Infosys,0.417
+NIFTY 50,ITC,0.4426
+NIFTY 50,L&T,0.6988
+NIFTY 50,M&M,0.6492
+NIFTY 50,NTPC,0.4912
+NIFTY 50,Reliance,0.6567
+NIFTY 50,TCS,0.4399
+NIFTY 50,NIFTY 50,1.0

@@ -1,0 +1,76 @@
+strategy,underlying_at_expiry,net_profit_per_unit
+Bull Call Spread,700.0,-35.0
+Long Straddle,700.0,195.0
+Iron Condor,700.0,-27.0
+Bull Call Spread,725.0,-35.0
+Long Straddle,725.0,170.0
+Iron Condor,725.0,-27.0
+Bull Call Spread,750.0,-35.0
+Long Straddle,750.0,145.0
+Iron Condor,750.0,-27.0
+Bull Call Spread,775.0,-35.0
+Long Straddle,775.0,120.0
+Iron Condor,775.0,-27.0
+Bull Call Spread,800.0,-35.0
+Long Straddle,800.0,95.0
+Iron Condor,800.0,-27.0
+Bull Call Spread,825.0,-35.0
+Long Straddle,825.0,70.0
+Iron Condor,825.0,-27.0
+Bull Call Spread,850.0,-35.0
+Long Straddle,850.0,45.0
+Iron Condor,850.0,-27.0
+Bull Call Spread,875.0,-35.0
+Long Straddle,875.0,20.0
+Iron Condor,875.0,-2.0
+Bull Call Spread,900.0,-35.0
+Long Straddle,900.0,-5.0
+Iron Condor,900.0,23.0
+Bull Call Spread,925.0,-35.0
+Long Straddle,925.0,-30.0
+Iron Condor,925.0,23.0
+Bull Call Spread,950.0,-35.0
+Long Straddle,950.0,-55.0
+Iron Condor,950.0,23.0
+Bull Call Spread,975.0,-35.0
+Long Straddle,975.0,-80.0
+Iron Condor,975.0,23.0
+Bull Call Spread,1000.0,-35.0
+Long Straddle,1000.0,-105.0
+Iron Condor,1000.0,23.0
+Bull Call Spread,1025.0,-10.0
+Long Straddle,1025.0,-80.0
+Iron Condor,1025.0,23.0
+Bull Call Spread,1050.0,15.0
+Long Straddle,1050.0,-55.0
+Iron Condor,1050.0,23.0
+Bull Call Spread,1075.0,40.0
+Long Straddle,1075.0,-30.0
+Iron Condor,1075.0,23.0
+Bull Call Spread,1100.0,65.0
+Long Straddle,1100.0,-5.0
+Iron Condor,1100.0,23.0
+Bull Call Spread,1125.0,65.0
+Long Straddle,1125.0,20.0
+Iron Condor,1125.0,-2.0
+Bull Call Spread,1150.0,65.0
+Long Straddle,1150.0,45.0
+Iron Condor,1150.0,-27.0
+Bull Call Spread,1175.0,65.0
+Long Straddle,1175.0,70.0
+Iron Condor,1175.0,-27.0
+Bull Call Spread,1200.0,65.0
+Long Straddle,1200.0,95.0
+Iron Condor,1200.0,-27.0
+Bull Call Spread,1225.0,65.0
+Long Straddle,1225.0,120.0
+Iron Condor,1225.0,-27.0
+Bull Call Spread,1250.0,65.0
+Long Straddle,1250.0,145.0
+Iron Condor,1250.0,-27.0
+Bull Call Spread,1275.0,65.0
+Long Straddle,1275.0,170.0
+Iron Condor,1275.0,-27.0
+Bull Call Spread,1300.0,65.0
+Long Straddle,1300.0,195.0
+Iron Condor,1300.0,-27.0
