@@ -17,7 +17,6 @@ import {
   TrendingUp,
   TrendingDown,
   Activity,
-  Award,
   BarChart3,
   Sliders,
   FileText,
@@ -410,12 +409,6 @@ export default function App() {
             <p className="tagline">“See the risk. Test the downside.”</p>
           </div>
         </div>
-
-        <div className="author-pill">
-          <Award size={16} color="#10B981" />
-          <span className="author-name">Kandala Guru Balaji</span>
-          <span className="author-cred">B.Tech CSBS (3rd Year) • Upstox Real-Time Quant Engine</span>
-        </div>
       </header>
 
       {/* 2. Upstox Live API Connection Strip */}
@@ -427,9 +420,7 @@ export default function App() {
           <span style={{ color: '#E2E8F0' }}>Live Vectorized Predictions & Risk Scoring Active</span>
         </div>
         <div className="upstox-status-right">
-          <span>API Key: <code>969a5e...fcab</code></span>
-          <span>•</span>
-          <span>Coverage: {allStocks.length} Flagship Stocks + 800+ NSE Equities</span>
+          <span>Coverage: {allStocks.length} Flagship Stocks + 4,800+ NSE Equities</span>
         </div>
       </div>
 
@@ -1261,9 +1252,6 @@ ORDER BY v.annualized_volatility_pct DESC;`}
       <footer className="site-footer">
         <div>
           <strong>AXIVEST</strong> — Portfolio Risk & Options Intelligence | Developed by <strong>Kandala Guru Balaji</strong>
-        </div>
-        <div style={{ fontSize: '0.8rem', color: '#64748B' }}>
-          Upstox Real-Time Quant Engine • B.Tech CSBS 3rd Year • Educational Analytics Demonstration
         </div>
       </footer>
     </div>
